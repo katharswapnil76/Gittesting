@@ -1,0 +1,2481 @@
+https://chat.whatsapp.com/5cL2V2p7nk23VMsuaCvhkl
+Oracle cloud video:
+https://mega.nz/folder/xZh1hIhT#1y_H1VgKH7xP8f57YYvIhA
+Arup nanda Blogs:
+https://www.oracle.com/technetwork/articles/sql/index-099021.html
+
+Full of material drive:
+
+https://drive.google.com/drive/folders/1q3maT8vIFcqAXKeIPAjYFaUTxShNhdpi
+
+Index of Oracle Database Information Centers (Doc ID 1568043.2)
+
+Master side for database (INDEX): 
+https://web.stanford.edu/dept/itss/docs/oracle/10gR2/backup.102/b14191/index.htm
+
+http://tanwanichandan.blogspot.in/2016/08/how-to-decide-if-column-should-be_25.html
+
+Database IMP Scripts:
+http://dba-tips.blogspot.in/search/label/Shell%20Scripts
+
+http://dba-tips.blogspot.in/2014/02/oracle-database-administration-scripts.html
+
+Error:
+Check this blog for the error:
+http://nimishgarg.blogspot.in/2012/05/ora-00054-resource-busy-and-acquire.html
+
+Step by Step Instructions for Detection, Diagnosis & Resolution of ORA-600 (ORA-00600 Internal error)
+https://community.oracle.com/community/support/support-blogs/database-support-blog/blog/2018/09/19/ora-600-ora-00600-internal-error-detection-diagnosis-resolution
+
+Install 12c oracle-RAC on virtual box:
+https://jameshuangsj.wordpress.com/2016/02/27/step-by-step-installing-oracle-12c-gi-and-rac-on-linux-7-using-virtualbox/
+https://www.lab128.com/rac_installation_using_vb/article_text.html
+
+1) How to create and publish report for management in 12C Grid.
+http://funoracledba.blogspot.in/2012/11/how-to-create-and-publish-report-for.html
+
+Blog for learning and script.
+http://www.idevelopment.info/data/Oracle/DBA_tips/
+http://www.idevelopment.info/
+31 10000
+11 x
+ORACLE White Paper:
+==================
+White Papers for Data Warehousing Components in the Oracle Database (Doc ID 1329441.1)
+
+Exadata:
+--------
+Oracle Exadata Best Practices (Doc ID 757552.1)	
+Information Center: Oracle Exadata Database Machine (Doc ID 1306791.2)
+Steps To Shutdown/Startup The Exadata & RDBMS Services and Cell/Compute Nodes On An Exadata Configuration (Doc ID 1093890.1)
+How to resize ASM disks in Exadata (Doc ID 1684112.1)
+Understanding ASM Capacity and Reservation of Free Space in Exadata (Doc ID 1551288.1)
+Script to Calculate New Grid Disk and Disk Group Sizes in Exadata (Doc ID 1464809.1)
+Resizing Grid Disks in Exadata: Example of Recreating RECO Grid Disks in a Rolling Manner (Doc ID 1465230.1)
+How to Resize Grid Disks in Exadata (Doc ID 2176737.1)
+How to Replace a Hard Drive in an Exadata Storage Server (Predictive Failure)(Doc ID 1390836.1)
+How to Replace a Hard Drive in an Exadata Storage Server (Hard Failure)(Doc ID 1386147.1)
+
+
+http://www.exadata-certification.com/
+http://www.dbas-oracle.com/2013/06/What-is-Exadata-Architecture-Components-and-Main-Features-of-Exadata-Storage-Server.html
+
+http://sateeshv-dbainfo.blogspot.in/2017/05/exa-data-command-categories.html
+http://sateeshv-dbainfo.blogspot.in/2017/05/oracle-exadata-database-machine.html
+http://sateeshv-dbainfo.blogspot.in/2017/05/exadata-metrics-and-reporting.html
+http://sateeshv-dbainfo.blogspot.in/2017/05/exa-data-command-categories.html
+http://sateeshv-dbainfo.blogspot.in/2017/05/oracle-exadata-commands-reference.html
+
+How to Setup Active DataGuard on Exadata (Doc ID 1580796.1)	To BottomTo Bottom	
+
+How to install VNC Server on Oracle Exadata?
+http://www.exadata-certification.com/2014/12/how-to-install-vnc-server-on-oracle.html
+
+Exadata upgrade:
+
+http://netsoftmate.blogspot.com/2017/03/exadata-upgrade-oracle-grid.html
+http://netsoftmate.blogspot.com/2017/03/exadata-upgrade-oracle-grid_14.html
+
+Arup nanda Exadata Good blog with command reference :
+https://www.oracle.com/technetwork/articles/oem/exadata-commands-intro-402431.html
+
+Check we can download it or not :
+https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=292256265992787&parent=DOCUMENT&sourceId=740966.1&id=1456202.1&_afrWindowMode=0&_adf.ctrl-state=10qbh1nx86_340
+
+Exadata disk failure scemario:
+https://docs.oracle.com/cd/E80920_01/DBMMN/maintaining-exadata-storage-servers.htm#DBMMN22400
+
+Master Note For Oracle Virtual Private Database ( VPD / FGAC / RLS ) (Doc ID 1352641.1)
+Master Note for Troubleshooting ORA-04052 ORA-03106 ORA-02063 ORA-00604 (Doc ID 1984678.1)
+Master Note for Oracle Database Fine-Grained Auditing (Doc ID 1533543.1)
+Master Note For Privileges And Roles (Doc ID 1347470.1)
+Master Note for Transportable Tablespaces (TTS) -- Common Questions and Issues (Doc ID 1166564.1)
+Master Note for Generic Data Warehousing (Doc ID 1269175.1)
+dbnodeupdate.sh and dbserver.patch.zip: Updating Exadata Database Server Software using the DBNodeUpdate Utility and patchmgr (Doc ID 1553103.1)
+
+Mview Materialized View :
+=========================
+Master Note for Materialized View (MVIEW) (Doc ID 1353040.1)
+How to Monitor the Progress of a Materialized View Refresh (MVIEW) (Doc ID 258021.1)
+NOTE:258258.1 - Monitoring Locks During Materialized View Refreshes
+Materialized View Refresh: Locking, Performance, Monitoring (Doc ID 258252.1)
+How to REGISTER and UNREGISTER a Materialized View - Testcase (Doc ID 1393276.1)
+NOTE:258634.1 - Materialized View Registration at Master Site
+NOTE:67371.1 - How to Manually Register/Unregister Snapshots/Materialized Views
+NOTE:236233.1 - Materialized View Refresh : Log Population and Purge 	
+Master Note for MVIEW 'ORA-' error diagnosis. For Materialized View CREATE or REFRESH, DBMS_MVIEW (Doc ID 1087507.1)
+Materialized View Registration at Master Site (Doc ID 258634.1)
+NOTE:1393276.1 - How to REGISTER and UNREGISTER a Materialized View - Testcase
+NOTE:236233.1 - Materialized View Refresh : Log Population and Purge
+NOTE:35217.1 - When do Snapshot Logs get Purged
+NOTE:1198284.1 - Using the 11.2 Feature - Commit SCN-Based MV Logs (CLOG)
+Note.67371.1    How to Manually Register/Unregister Snapshots:
+
+Basic Queries:
+==============
+
+To find the sqlid of the session:
+
+select userenv('sid') from dual;
+
+select sql_id, substr(sql_text,1,200) sql_text from v$sql where upper(sql_text) like ‘%&SQL_TEXT%’ ; --- SQL_TEXT should in capital
+
+If SQL is not available in v$sql, DBA_HIST_SQLTEXT and DBA_HIST_SQLSTAT can be used:
+
+select t.sql_id,t.sql_text,s.executions_total,s.elapsed_time_total from DBA_HIST_SQLSTAT s, DBA_HIST_SQLTEXT t
+where s.snap_id between 333 and 350; 
+
+SQLs Running from longtime
+--------------------------
+alter session set nls_date_format = 'dd/mm/yyyy hh24:mi';
+set pages 50000 lines 32767
+col target format a25
+col opname format a40
+select sid,opname,target,round(sofar/totalwork*100,2)   as percent_done,start_time,last_update_time,time_remaining from v$session_longops;
+	   
+Monitor Index Creation Job:
+--------------------------	   
+set lines 200
+col "Index Operation" for a60
+
+select sess.sid as "Session ID", sql.sql_text as "Index Operation",longops.totalwork, longops.sofar,
+longops.elapsed_seconds/60 as "Runtime Mins",longops.time_remaining/60 as "ETA Mins"
+from v$session sess, v$sql sql, v$session_longops longops where sess.sid=longops.sid and sess.sql_address = sql.address
+and sess.sql_address = longops.sql_address and sess.status = 'ACTIVE' and longops.totalwork > longops.sofar
+and sess.sid not in ( SELECT sys_context('USERENV', 'SID') SID FROM DUAL) and upper(sql.sql_text) like '%INDEX%';	   
+	   
+Session details from Session longops
+-------------------------------------
+select inst_id,SID,SERIAL#,OPNAME,SOFAR,TOTALWORK,START_TIME,LAST_UPDATE_TIME, username from gv$session_longops;
+
+To find Undo Generated For a given session
+------------------------------------------
+select  username,t.used_ublk ,t.used_urec from gv$transaction t,gv$session s where t.addr=s.taddr and s.sid='&sid';
+
+To get total count of sessions and processes
+--------------------------------------------
+select (select count(*) from v$session) sessions, (select count(*) from v$process) processes from dual;
+
+To list inactive Sessions respective username
+---------------------------------------------
+SELECT username,count(*) num_inv_sess FROM v$session where last_call_et > 3600 and username is not null AND STATUS='INACTIVE' group by username order by num_inv_sess DESC;
+
+SELECT count(*) FROM v$session where last_call_et > 43200 and username is not null AND STATUS='INACTIVE';
+
+select sid, serial#, USERNAME, STATUS, OSUSER, PROCESS,MACHINE from v$session where last_call_et > 3600 and username is not null AND STATUS='INACTIVE';
+
+Session details with SPID
+-------------------------
+select sid, serial#, USERNAME, STATUS, OSUSER, PROCESS,MACHINE, MODULE, ACTION, to_char(LOGON_TIME,'yyyy-mm-dd hh24:mi:ss')
+from v$session where paddr in (select addr from v$process where spid = '&spid');
+
+Show Segments with the highest Lock waits:
+------------------------------------------
+column object_name format a30
+column row_lock_wait format 9,999,999
+column pct format 99.99
+set echo on
+
+SELECT object_name, VALUE row_lock_waits,ROUND(VALUE * 100 / SUM(VALUE) OVER (), 2) pct FROM v$segment_statistics
+WHERE statistic_name = 'row lock waits' AND VALUE > 0 ORDER BY VALUE DESC;
+
+Show Session waits:
+--------------------------------
+set lines 200 pages 200
+set echo on
+col sid format 9999 heading 'Blocked|SID'
+col event format a35 heading 'Wait event'
+col object format a30 heading 'Object Type: name'
+col sql_text format a70 heading 'SQL Text'
+col blocking_session format 999 heading 'Blocking|SID'
+col time_ms format 9,999.99 heading 'MS|Waited'
+
+SELECT sid, event, wait_time_micro / 1000 time_ms, blocking_session, object_type || ': ' || object_name object, sql_ID
+FROM v$session s LEFT OUTER JOIN v$sql USING (sql_id) LEFT OUTER JOIN dba_objects ON (object_id = row_wait_obj#) WHERE event LIKE 'enq: %';
+
+Locking / Blocking :
+--------------------
+V$ACCESS displays information about locks that are currently imposed on library cache objects. The locks are imposed
+to ensure that they are not aged out of the library cache while they are required for SQL execution.
+In addition to v$_locked_object you can also query the v$access view (starting in 11g) to identify locked objects:
+column object format a30
+ 
+select a.object,a.type,a.sid,b.serial#,b.username,b.osuser,
+b.program from v$access  a, v$session b where a.sid = b.sid
+and a.owner  = DECODE(UPPER('&1'), 'ALL', a.object, upper('&1'))
+and a.object = DECODE(UPPER('&2'), 'ALL', a.object, upper('&2')) order by a.object;
+
+
+Explain Plan for the recently executed query
+---------------------------------------------
+set pages 9999 lines 150
+SELECT *  FROM TABLE(DBMS_XPLAN.DISPLAY_CURSOR());
+
+To check plan from cursor/AWR:
+-----------------------------
+select * from table(dbms_xplan.display_cursor('&sql_id','&child_no',''));
+select * from TABLE(dbms_xplan.display_awr('&sql_id'));
+
+To create plan table:
+$ORACLE_HOME/rdbms/admin/utlxplan.sql
+
+Explain plan for xyz
+
+SET LINESIZE 130
+SET PAGESIZE 0
+SELECT * FROM TABLE(DBMS_XPLAN.DISPLAY);
+
+@?rdbms/admin/utlxpls.sql
+
+################################################################################################################################################
+Quaries to high archive generation:
+----------------------------------
+Run the below query to find out the archive generation/hour for last one week.
+ 
+SELECT * FROM (
+SELECT * FROM (
+SELECT TO_CHAR(FIRST_TIME, 'DD/MM') AS "DAY"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '00', 1, 0)), '999') "00:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '01', 1, 0)), '999') "01:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '02', 1, 0)), '999') "02:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '03', 1, 0)), '999') "03:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '04', 1, 0)), '999') "04:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '05', 1, 0)), '999') "05:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '06', 1, 0)), '999') "06:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '07', 1, 0)), '999') "07:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '08', 1, 0)), '999') "08:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '09', 1, 0)), '999') "09:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '10', 1, 0)), '999') "10:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '11', 1, 0)), '999') "11:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '12', 1, 0)), '999') "12:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '13', 1, 0)), '999') "13:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '14', 1, 0)), '999') "14:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '15', 1, 0)), '999') "15:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '16', 1, 0)), '999') "16:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '17', 1, 0)), '999') "17:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '18', 1, 0)), '999') "18:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '19', 1, 0)), '999') "19:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '20', 1, 0)), '999') "20:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '21', 1, 0)), '999') "21:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '22', 1, 0)), '999') "22:00"
+, TO_NUMBER(SUM(DECODE(TO_CHAR(FIRST_TIME, 'HH24'), '23', 1, 0)), '999') "23:00"
+FROM V$LOG_HISTORY
+WHERE extract(year FROM FIRST_TIME) = extract(year FROM sysdate)
+GROUP BY TO_CHAR(FIRST_TIME, 'DD/MM')
+) ORDER BY TO_DATE(extract(year FROM sysdate) || DAY, 'YYYY DD/MM') DESC
+) WHERE ROWNUM < 8;
+
+
+You can use the below query to find-out the number of redo log switches per hour in a day: 
+
+select to_char(first_time,'DD-MON') day,  
+sum(decode(to_char(first_time,'hh24'),'00',1,0)) "00",  
+sum(decode(to_char(first_time,'hh24'),'01',1,0)) "01",  
+sum(decode(to_char(first_time,'hh24'),'02',1,0)) "02",  
+sum(decode(to_char(first_time,'hh24'),'03',1,0)) "03",  
+sum(decode(to_char(first_time,'hh24'),'04',1,0)) "04",  
+sum(decode(to_char(first_time,'hh24'),'05',1,0)) "05",  
+sum(decode(to_char(first_time,'hh24'),'06',1,0)) "06",  
+sum(decode(to_char(first_time,'hh24'),'07',1,0)) "07",  
+sum(decode(to_char(first_time,'hh24'),'08',1,0)) "08",  
+sum(decode(to_char(first_time,'hh24'),'09',1,0)) "09",  
+sum(decode(to_char(first_time,'hh24'),'10',1,0)) "10",  
+sum(decode(to_char(first_time,'hh24'),'11',1,0)) "11",  
+sum(decode(to_char(first_time,'hh24'),'12',1,0)) "12",  
+sum(decode(to_char(first_time,'hh24'),'13',1,0)) "13",  
+sum(decode(to_char(first_time,'hh24'),'14',1,0)) "14",  
+sum(decode(to_char(first_time,'hh24'),'15',1,0)) "15",  
+sum(decode(to_char(first_time,'hh24'),'16',1,0)) "16",  
+sum(decode(to_char(first_time,'hh24'),'17',1,0)) "17",  
+sum(decode(to_char(first_time,'hh24'),'18',1,0)) "18",  
+sum(decode(to_char(first_time,'hh24'),'19',1,0)) "19",  
+sum(decode(to_char(first_time,'hh24'),'20',1,0)) "20",  
+sum(decode(to_char(first_time,'hh24'),'21',1,0)) "21",  
+sum(decode(to_char(first_time,'hh24'),'22',1,0)) "22",  
+sum(decode(to_char(first_time,'hh24'),'23',1,0)) "23",  
+count(to_char(first_time,'MM-DD')) Switches_per_day  
+from v$log_history  
+where trunc(first_time) between trunc(sysdate) - 6 and trunc(sysdate)  
+group by to_char(first_time,'DD-MON')   
+order by to_char(first_time,'DD-MON') ; 
+
+If there is a drastic change in redo/archive generation run below queries.. Get the segment that experienced the most changes during a 
+specific period. This is helpful in tracking history data.
+
+SELECT to_char(begin_interval_time,'YYYY_MM_DD HH24:MI') snap_time,
+        dhsso.object_name,
+        sum(db_block_changes_delta)
+  FROM dba_hist_seg_stat dhss,
+         dba_hist_seg_stat_obj dhsso,
+         dba_hist_snapshot dhs
+  WHERE dhs.snap_id = dhss.snap_id
+    AND dhs.instance_number = dhss.instance_number
+    AND dhss.obj# = dhsso.obj#
+    AND dhss.dataobj# = dhsso.dataobj#
+    AND begin_interval_time BETWEEN to_date('2013_10_22 12','YYYY_MM_DD HH24')
+                                           AND to_date('2013_10_23 12','YYYY_MM_DD HH24')
+  GROUP BY to_char(begin_interval_time,'YYYY_MM_DD HH24:MI'),
+           dhsso.object_name order by 3 desc;
+		   
+To find sessions generating lots of redo, you can use either of the following methods. Both methods examine the amount of undo generated. 
+When a transaction generates undo, it will automatically generate redo as well.
+
+1) Query V$SESS_IO. This view contains the column BLOCK_CHANGES which indicates how much blocks have been changed by the session. 
+High values indicate a session generating lots of redo.
+
+The query you can use is:
+SELECT s.sid, s.serial#, s.username, s.program,
+ i.block_changes FROM v$session s, v$sess_io i WHERE s.sid = i.sid ORDER BY 5 desc, 1, 2, 3, 4;
+
+################################################################################################################################################
+2) One Node RAC - How to Relocate ?
+-----------------------------------
+You can setup one node RAC instead of single instance database and still take advantage of RAC setup. How?  
+You use two node cluster and setup the database only on  one node.  When one node goes down , your instance gets relocated  to second node automatically. 
+If you have planned maintenance, You can relocate your instance online there by eliminating downtime.
+
+Here is how you do planned relocation.
+Relocating database testoem from host call2 to  host gan2
+
+Currently the instance testoem_2(Database testoem) running on call2
+call2:/usr/opt/oracle[(oracle)()]> ps -ef |grep -i pmon
+grid 7275 1 0 Aug11 ? 00:01:48 asm_pmon_+ASM1
+oracle 12162 12013 0 09:43 pts/0 00:00:00 grep -i pmon
+oracle 21990 1 0 Sep14 ? 00:01:00 ora_pmon_testoem_2
+
+Moving testoem database to host gan2
+call2:/usr/opt/oracle[(oracle)(semstg_1)]>srvctl relocate database -d testoem -n gan2 -v
+Configuration updated to two instances
+Instance testoem_1 started
+Services relocated
+Waiting for up to 30 minutes for instance testoem_2 to stop ...
+Instance testoem_2 stopped
+Configuration updated to one instance
+
+on host gan2 
+gan2:/usr/opt/oracle[(oracle)(testoem_1)]>srvctl status database -d testoem
+Instance testoem_1 is running on node gan2
+Online relocation: INACTIVE
+
+################################################################################################################################################
+3) Below is the Question in stag? 
+-------------------------------------
+I have been trying to understand the concept of redo log threads in a RAC environment. I understand how the redo logs work in a single instance 
+database. But I cannot find proper documentation anywhere that clearly explains what a redo log thread is and how the whole thing works in a RAC setup. 
+e.g. Here is what I have on my 2 node RAC database: 
+
+
+SQL> select * from gv$log; 
+
+INST_ID        GROUP# THREAD#     SEQUENCE#   BYTES       MEMBERS     ARC   STATUS             FIRST_CHANGE#   FIRST_TIM 
+---------- ---------- ---------- ----------   ---------- ----------   ---   ----------------     ------------- --------- 
+1              1         1            17       52428800       1        NO   CURRENT 				951208 	 	31-DEC-06 
+1              2         1            15       52428800       1        YES   INACTIVE 				940808 		31-DEC-06 
+1              4         2            13       52428800       1        YES   INACTIVE 				948841 		31-DEC-06 
+1              5         2            14       52428800       1        NO   CURRENT 				951206 		31-DEC-06 
+2              1         1            17       52428800       1        NO   CURRENT 				951208 		31-DEC-06 
+2              2         1            15       52428800       1        YES   INACTIVE 				940808 		31-DEC-06 
+2              4         2            13       52428800       1        YES   INACTIVE 				948841 		31-DEC-06 
+2              5         2            14       52428800       1        NO   CURRENT 				951206 		31-DEC-06 
+                                                                            
+8 rows selected. 
+
+SQL> select * from gv$logfile; 
+
+INST_ID 	GROUP# 			STATUS 					TYPE MEMBER IS_ 
+---------- 	---------- 	    ------- 		------ -------------------------------------------------- --- 
+1 				2 			ONLINE 			 /ocfs/oradata/racdb/redo02.log NO 
+1 				1 			ONLINE 			 /ocfs/oradata/racdb/redo01.log NO 
+1 				4 			ONLINE 			 /ocfs/oradata/racdb/redo04.log NO 
+1 				5 			ONLINE 			 /ocfs/oradata/racdb/redo05.log NO 
+2 				2 			ONLINE 			 /ocfs/oradata/racdb/redo02.log NO 
+2 				1 			ONLINE 			 /ocfs/oradata/racdb/redo01.log NO 
+2 				4 			ONLINE 			 /ocfs/oradata/racdb/redo04.log NO 
+2 				5 			ONLINE 			 /ocfs/oradata/racdb/redo05.log NO 
+
+8 rows selected. 
+
+SQL> exit 
+
+My question is why do I see multiple redo log members when I query the gv$logfile view? How do the INST_ID, GROUP# and THREAD# relate to each other? 
+
+Can you please make it clear to me? 
+
+Thank you 
+
+Answer given by arup nanda:
+---------------------------
+and we said...
+
+each instance has it's own personal set of redo - each redo thread is made up of at least two groups that have one or more members (files) 
+
+two instances will never write to the same redo files - each instance has it's own set of redo logs to write to. that is the inst_id you see above,
+it shows which instance owns what redo logs. 
+
+another instance may well READ some other instances redo logs - after that other instance fails for example - to perform recovery. 
+
+Most V$ views work by selecting information from the corresponding GV$ view with a predicate "where instance_id = <that instance>". 
+So V$SESSION in Instance 1 is actually "SELECT * FROM GV$INSTANCE WHERE INST_ID = 1". On a three node RAC database, if you select from v$session, 
+you get sessions from that instance only. Selecting from GV$SESSION creates parallel query slaves on the other instances and gets the information 
+back to your session. 
+
+This works fine in almost all cases. There are few exceptions: in case of redo logs, the RAC instance must see all the redo logs of other instances 
+as they become important for its recovery. Therefore, V$LOG actually shows all the redo logs, of all the instances, not just of its own. Contrast 
+this with V$SESSION, which shows only sessions of that instance, not all. So, if there are 3 log file groups per instance (actually, per "thread") 
+and there are 3 instances, V$LOG on any instance will show all 9 logfile groups, not 3. 
+
+When you select form GV$LOG, remember, the session gets the information from other instances as well. Unfortunately, the PQ servers on those 
+instances also get 9 records each, since they also see the same information seen by the first instance. On a three instance RAC, you will get 3X9 = 27 
+records in GV$LOG! 
+
+The same explanation applies to GV$LOGFILE as well as GV$THREAD. 
+
+In your case, you have 2 instances and there are 2 groups in each instance, so you have 4 groups in all. When you select from GV$LOG, the output shows all groups against all instances. Note your output: 
+
+  INST_ID  GROUP#  THREAD# SEQUENCE#    BYTES  MEMBERS ARC STATUS      FIRST_CHANGE# FIRST_TIM                                                            
+---------- ---------- ---------- ---------- ---------- ---------- --- ---------------- ------------- ---------                                                            
+      1      1      1      17  52428800      1 NO CURRENT          951208 31-DEC-06                                                            
+      1      2      1      15  52428800      1 YES INACTIVE          940808 31-DEC-06                                                            
+      1      4      2      13  52428800      1 YES INACTIVE          948841 31-DEC-06            
+
+This shows thread# 1 and 2 both under instance# 1. This is obviously incorrect. 
+
+To avoid this: 
+
+(1) Always select from V$LOG, V$LOGFILE and V$THREAD in a RAC instance. GV$ views are misleading. 
+
+OR 
+
+(2) add a predicate to match THREAD# with INST_ID. (Beware: thread numbers are by default the same as the instance_id; but you may have defined a different thread number while creating the database): 
+
+SELECT * FROM GV$LOG WHERE INST_ID = THREAD# 
+
+But I see no advantage in doing so. Your best bet is to use V$LOG. 
+
+
+The Database Slowness:
+-----------------------
+
+https://uhesse.com/2010/07/08/performance-monitoring-active-session-history-at-work/
+
+-----------------------------------------
+-- Top 10 CPU consumers in last 5 minutes
+-----------------------------------------
+select * from( select session_id, session_serial#, count(*) from v$active_session_history
+where session_state= 'ON CPU' and sample_time > sysdate - interval '5' minute
+group by session_id, session_serial# order by count(*) desc ) where rownum <= 10;
+
+--------------------------------------------
+-- Top 10 waiting sessions in last 5 minutes
+--------------------------------------------
+select * from ( select session_id, session_serial#,count(*) from v$active_session_history where session_state='WAITING'  
+and sample_time >  sysdate - interval '5' minute group by session_id, session_serial# order by count(*) desc ) where rownum <= 10;
+
+--------------------
+-- Who is that SID?
+--------------------
+set lines 200
+col username for a10
+col osuser for a10
+col machine for a10
+col program for a10
+col resource_consumer_group for a10
+col client_info for a10
+select  serial#, username, osuser, machine, program,
+resource_consumer_group, client_info from v$session where sid=&sid;
+
+-------------------------
+-- What did that SID do?
+-------------------------
+select distinct sql_id, session_serial# from v$active_session_history
+where sample_time >  sysdate - interval '5' minute and session_id=&sid;
+
+----------------------------------------------
+-- Retrieve the SQL from the Library Cache:
+----------------------------------------------
+col sql_text for a80
+select sql_text from v$sql where sql_id='&sqlid';
+
+################################################################################################################################################
+RAC:
+=====
+
+Service / Listener /SCAN Listener in RAC:
+==========================================
+Understanding and Troubleshooting Instance Load Balancing
+http://sateeshv-dbainfo.blogspot.in/2017/04/understanding-and-troubleshooting.html  		-----Must Read
+Understanding and Troubleshooting Instance Load Balancing (Doc ID 263599.1)
+http://ermanarslan.blogspot.com/2014/02/rac-listener-configuration-in-oracle.html  
+
+In depth SCAN Listener:
+http://ermanarslan.blogspot.com/2014/02/rac-listener-configuration-in-oracle.html
+
+NOTE:1063571.1 - How to Configure A Second Listener on a Separate Network in 11.2 Grid Infrastructure
+NOTE:1580584.1 - Setup Listener on Infiniband Network using both SDP and TCP Protocol
+Using Class of Secure Transport (COST) to Restrict Instance Registration in Oracle RAC (Doc ID 1340831.1)
+NOTE:114085.1 - Troubleshooting Guide for ORA-12154 / TNS-12154 TNS:could not resolve service name
+How to Troubleshoot Connectivity Issue with 11gR2 SCAN Name (Doc ID 975457.1)
+
+
+How to drop the RAC database:
+https://jameshuangsj.wordpress.com/2016/10/24/how-to-drop-a-rac-database/
+
+A. Startup database in mount status.
+SQL> startup mount;
+ORACLE instance started.
+
+Total System Global Area 1.7180E+10 bytes
+Fixed Size 7663544 bytes
+Variable Size 3120562248 bytes
+Database Buffers 1.4026E+10 bytes
+Redo Buffers 25890816 bytes
+Database mounted.
+
+B. Try to drop the database.
+SQL> drop database;
+drop database
+*
+ERROR at line 1:
+ORA-01586: database must be mounted EXCLUSIVE and not open for this operation
+C. Make the database as a non-cluster database, and then mount the database in RESTRICT mode.
+
+SQL> alter system set cluster_database=FALSE scope=spfile;
+System altered.
+
+SQL> shutdown immediate;
+ORA-01109: database not open
+Database dismounted.
+ORACLE instance shut down.
+
+SQL> startup mount restrict;
+ORACLE instance started.
+Total System Global Area 1.7180E+10 bytes
+Fixed Size 7663544 bytes
+Variable Size 3120562248 bytes
+Database Buffers 1.4026E+10 bytes
+Redo Buffers 25890816 bytes
+Database mounted.
+
+D. Drop the database successfully.
+SQL> drop database;
+Database dropped.
+
+E. Remove the database from cluster.
+$ srvctl status database -d RACTEST
+Instance RACTEST1 is not running on node racnode1
+Instance RACTEST2 is not running on node racnode2
+Instance RACTEST3 is not running on node racnode3
+Instance RACTEST4 is not running on node racnode4
+
+$ srvctl remove database -d RACTEST
+Remove the database RACTEST? (y/[n]) y
+
+$ srvctl status database -d RACTEST
+PRCD-1120 : The resource for database RACTEST could not be found.
+PRCR-1001 : Resource ora.RACTEST.db does not exist
+
+**) How to Enable/Disable Auto Start of Oracle Clusterware:
+-------------------------------------------------------
+Sometimes we need manually disable, then enable auto-start of Oracle cluster, like system maintenance or trouble shooting requires 
+system rebooting for a couple of times.
+
+1)Disable clustware auto-start.
+
+#crsctl disable crs
+CRS-4621: Oracle High Availability Services autostart is disabled.
+-- or run this command :
+
+#crsctl disable has
+CRS-4621: Oracle High Availability Services autostart is disabled.
+
+-- Check the status of auto-start 
+# crsctl config crs
+CRS-4621: Oracle High Availability Services autostart is disabled.
+-- or
+# crsctl config has
+CRS-4621: Oracle High Availability Services autostart is disabled.
+-- or
+#cd /etc/oracle/scls_scr/racnode1/root
+#cat ohasdstr
+disable
+
+-- crsstart is no longer updated and used after Oracle 11.2
+# cat crsstart
+enable
+
+################################################################################################################################################
+Auditing:
+========
+Master Note For Oracle Database Auditing (Doc ID 1299033.1)
+How to Truncate, Delete, or Purge Rows from the Audit Trail Table AUD$ (Doc ID 73408.1)
+
+################################################################################################################################################
+ASM: 
+=====
+How To Remove An Empty ASM System Directory (Doc ID 444812.1)
+
+################################################################################################################################################
+
+https://fatdba.com/2018/01/01/script-to-measure-the-source-contribution-of-any-wait-event-within-snaps/
+Script to measure the Source & Contribution of any Wait Event within AWR snapshots:
+
+Suppose you have a system with huge User IOs happening, as conformed by any report or tool (AWR, ASH, Via any Script, OEM etc.)
+
+For example using AWR we found one of the User IO wait class event ‘db file scattered read’ was leading the ‘Top Foreground Wait Events’ charts 
+on a specific time when we have the high User IO load on system.
+
+                                           Total Wait       Avg   % DB Wait
+Event                                Waits Time (sec)      Wait   time Class
+------------------------------ ----------- ---------- --------- ------ --------
+db file scattered read              10,282       82.8    41.50ms  43.9 User I/O
+
+So, now you have identified the leading wait event and the timeframe with maximum intensity or frequency, Lets call the script.
+
+Script Inputs:
+Example:
+
+Enter value for event_class: User I/O
+Enter value for event_name: db file scattered read
+Enter value for begin_snap: 193
+Enter value for end_snap: 200
+Enter value for dbid: 2896132084
+
+WITH
+events AS (
+SELECT /*+ MATERIALIZE NO_MERGE */
+       SUBSTR(TRIM(h.sql_id||' '||h.program||' '||
+       CASE h.module WHEN h.program THEN NULL ELSE h.module END), 1, 128) source,
+       h.dbid,
+       COUNT(*) samples
+  FROM dba_hist_active_sess_history h,
+       dba_hist_snapshot s
+ WHERE h.wait_class = TRIM('&Event_Class') AND h.event = TRIM('&Event_Name')
+   AND h.snap_id BETWEEN &Begin_Snap AND &End_Snap
+   AND h.dbid = &dbid
+   AND s.snap_id = h.snap_id
+   AND s.dbid = h.dbid
+   AND s.instance_number = h.instance_number
+ GROUP BY
+       h.sql_id,
+       h.program,
+       h.module,
+       h.dbid
+ ORDER BY
+       3 DESC
+),
+total AS (
+SELECT SUM(samples) samples,
+       SUM(CASE WHEN ROWNUM > 15 THEN samples ELSE 0 END) others
+  FROM events
+)
+SELECT e.source,
+       e.samples,
+       ROUND(100 * e.samples / t.samples, 1) percent,
+       (SELECT DBMS_LOB.SUBSTR(s.sql_text, 1000, 1) FROM dba_hist_sqltext s WHERE s.sql_id = SUBSTR(e.source, 1, 13) AND s.dbid = e.dbid AND ROWNUM = 1) sql_text
+  FROM events e,
+       total t
+ WHERE ROWNUM  0.1
+ UNION ALL
+SELECT 'Others',
+       others samples,
+       ROUND(100 * others / samples, 1) percent,
+       NULL sql_text
+  FROM total
+ WHERE others > 0
+   AND ROUND(100 * others / samples, 1) > 0.1;
+
+   
+SOURCE                                                                      SAMPLES      PERCENT       SQL_TEXT
+------------------------------------------------------------------------  ---------- ---------------  -------------------------------
+5av23g8w7f3ka sqlplus@dixitlab.localdomain (TNS V1-V3)                          1          45.23       select * from dixit.bigtab
+9a7gbkahasj1a sqlplus@dixitlab.localdomain (TNS V1-V4)                          1           5          select * from dixit.gianttable
+OTHERS                                                                          14         49.77
+
+Okay so result shows one of the SQL statement with SQL id 5av23g8w7f3ka was responsible for more than 45% of these waits.
+So, now you have the evidence and can start troubleshooting this specific statement to reduce the USER IOs.
+
+
+How to find which wait event related to which object ?
+------------------------------------------------------
+set lin 150
+col OWNER.OBJECT_NAME.OBJECT_TYPE for a50
+select * from (select inst_id, event, count(*),(select OWNER||'.'||OBJECT_NAME||'.'||OBJECT_TYPE from dba_objects where OBJECT_ID=CURRENT_OBJ#) "OWNER.OBJECT_NAME.OBJECT_TYPE"
+  from gv$active_session_history
+  where event not in (
+'HS message to agent',
+'SQL*Net break/reset to client',
+'SQL*Net message from client',
+'SQL*Net message to client',
+'jobq slave wait',
+'pipe get',
+'pmon timer',
+'queue messages',
+'rdbms ipc message',
+'smon timer',
+'wait for unread message on broadcast channel',
+'wakeup time manager',
+'ASM background timer',
+'DIAG idle wait',
+'PX Deq: Execute Reply',
+'PX Deq: Execution Msg',
+'PX Deq: reap credit',
+'Streams AQ: qmn coordinator idle wait',
+'Streams AQ: qmn slave idle wait',
+'Streams AQ: waiting for messages in the queue',
+'Streams AQ: waiting for time management or cleanup tasks',
+'class slave wait'
+)
+group by inst_id, event,CURRENT_OBJ#
+order by 3 desc) where rownum<30 
+
+INST_ID EVENT                                                              COUNT(*) OWNER.OBJECT_NAME.OBJECT_TYPE
+---------- ---------------------------------------------------------------- ---------- --------------------------------------------------
+         1 enq: TX - row lock contention                                        158230 PRODUCT.PRODUCT_AK.INDEX
+         3 enq: TX - row lock contention                                         45222 PRODUCT.PRODUCT_AK.INDEX
+         2 db file parallel write                                                33581
+
+################################################################################################################################################
+
+################################################################################################################################################
+Block corruption:
+-----------------
+https://jhdba.wordpress.com/
+Master Note for Handling Oracle Database Corruption Issues (Doc ID 1088018.1)
+
+################################################################################################################################################
+Distributed Transaction:
+------------------------
+Master Note for Troubleshooting Oracle Managed Distributed Transactions (Doc ID 100664.1)
+Manually Resolving In-Doubt Transactions: Different Scenarios (Doc ID 126069.1)
+
+
+################################################################################################################################################
+Clonning:
+---------
+Transportable Tablespace on Physical Standby Database
+How we can clone using the transportable tablespace feature on standby database.
+https://jameshuangsj.wordpress.com/2014/10/17/transportable-tablespace-on-physical-standby-database/
+
+Affect of running RMAN and Datapump Transportable tablespace Jobs together
+http://www.orskl.com/affect-of-running-rman-and-datapump-transportable-tablespace-jobs-together/
+
+################################################################################################################################################
+Transportable tablespace:
+-------------------------
+How to Create Transportable Tablespaces Where the Source and Destination are ASM-Based (Doc ID 394798.1)
+NOTE:371556.1 - How to Migrate to different Endian Platform Using Transportable Tablespaces With RMAN
+
+
+How to Copy ASM Password File From Primary to Standby in 12cR1:
+---------------------------------------------------------------
+https://jameshuangsj.wordpress.com/2017/09/18/how-to-copy-asm-password-file-from-primary-to-standby-in-12cr1/
+
+1) Copy primary password file from ASM to local disk.
+
+$ asmcmd
+ASMCMD> pwget --dbuniquename RACTEST
++DATA1/RACTEST/orapwractest
+ASMCMD> pwcopy --dbuniquename ractest '+DATA1/RACTEST/orapwractest' '/tmp/orapwractest'
+copying +DATA1/RACTEST/orapwractest -> /tmp/orapwractest
+ASMCMD-9456: password file should be located on an ASM disk group
+
+2) Manually copy password file from primary local disk onto standby local disk.
+
+$ scp  /tmp/orapwractest stbnode1:/tmp/orapwractest
+
+3) Copy password file from standby local disk onto standby ASM.
+
+$ asmcmd
+
+ASMCMD> pwcopy --dbuniquename STBTEST '/tmp/orapwractest' '+DATA1/stbtest/orapwstbtest'
+
+4) Add/Modify standby  database configuration in OCR.
+
+$srvctl  modify database -db STBTEST -dbtype RAC -pwfile '+DATA1/stbtest/orapwstbtest' -startoption MOUNT -stopoption IMMEDIATE 
+-oraclehome /u01/app/oracle/product/12.1.0/dbhome_1
+
+################################################################################################################################################
+
+Features are available in standard/enterprise edition:
+------------------------------------------------------
+
+SELECT Parameter,Value FROM V$OPTION Where Value = 'TRUE';
+
+PARAMETER                                                        VALUE                                                           
+----------------------------------------------------------------------
+Objects                                                          TRUE                                                            
+Connection multiplexing                                          TRUE                                                            
+Connection pooling                                               TRUE                                                            
+Database queuing                                                 TRUE                                                            
+Incremental backup and recovery                                  TRUE                                                            
+Instead-of triggers                                              TRUE                                                            
+Parallel load                                                    TRUE                                                            
+Proxy authentication/authorization                               TRUE                                                            
+Plan Stability                                                   TRUE                                                            
+Transparent Application Failover                                 TRUE                                                            
+Sample Scan                                                      TRUE                                                            
+Java                                                             TRUE                                                            
+OLAP Window Functions                                            TRUE
+
+
+################################################################################################################################################
+Memory:
+-------
+Automatic PGA Memory Management (Doc ID 223730.1)
+NOTE:2128928.1 - How To Convert A Database Using AMM (Automatic Memory Management) To A Database That Has Been Configured With Hugepages
+NOTE:1269139.1 - SGA Re-Sizes Occurring Despite AMM/ASMM Being Disabled (MEMORY_TARGET/SGA_TARGET=0)
+NOTE:148495.1 - Dynamic SGA
+NOTE:1392549.1 - Automatic Memory Management (AMM) SGA and PGA Management in 11g and Above 
+NOTE:1516202.1 - How to Monitor Process Memory Usage on Pluggable Databases
+NOTE:1516229.1 - How to Monitor SGA Memory on Pluggable Database
+ECH: Unix Virtual Memory, Paging & Swapping explained (Doc ID 17094.1)
+
+select to_char(round(s.end_interval_time,'hh24'),'mm-dd hh24') snap_time
+, g.instance_number, g.value/1048576 mbytes from dba_hist_snapshot s
+, dba_hist_pgastat g
+where s.snap_id = g.snap_id
+and s.instance_number = g.instance_number
+and s.dbid = g.dbid
+and g.name = 'total PGA allocated'
+and s.end_interval_time > to_date('&start_date','MMDDYYYY')
+and s.end_interval_time < to_date('&end_date','MMDDYYYY')
+order by to_char(s.end_interval_time,'mm-dd hh24:mi')
+, g.instance_number;
+
+NOTE:1088267.1 - Master Note for Diagnosing OS Memory Problems and ORA-4030
+
+NOTE:123754.1 - AIX: Determining Oracle Memory Usage On AIX
+NOTE:67033.1 - OpenVMS: How Background Process Quotas are Set for Oracle RDBMS
+NOTE:199746.1 - How to Resolve ORA-4030 Errors on UNIX
+NOTE:174555.1 - UNIX: Determining the Size of an Oracle Process
+NOTE:116076.1 - Tackling ORA-4030 on Windows 32-bit Operating System
+
+
+################################################################################################################################################
+Linux / Unix command:
+=====================
+You can also increase or decrease socket timeout (Linux specific example):
+# echo 2000 > /proc/sys/net/ipv4/tcp_keepalive_time
+DOcument of the oracle linux 7 : https://docs.oracle.com/en/operating-systems/oracle-linux/7/admin/ol7-downloading-yum-repo.html
+https://access.redhat.com/documentation/en-us/reference_architectures/2017/html-single/deploying_oracle_rac_database_12c_release_2_on_red_hat_enterprise_linux_7/index#configuring_firewall_settings
+
+
+Advanced OS Commands To Assist In Diagnosing Database Performance Problems (Doc ID 2267052.1)
+
+HUGEPAGES:
+==========
+NOTE:361323.1 - HugePages on Linux: What It Is... and What It Is Not...
+NOTE:361468.1 - HugePages on Oracle Linux 64-bit
+NOTE:749851.1 - HugePages and Oracle Database 11g Automatic Memory Management (AMM) on Linux
+NOTE:1392497.1 - USE_LARGE_PAGES To Enable HugePages
+NOTE:401749.1 - Oracle Linux: Shell Script to Calculate Values Recommended Linux HugePages / HugeTLB Configuration
+
+
+################################################################################################################################################
+Database Hang:
+--------------
+Troubleshooting Database Hang Issues (Doc ID 1378583.1)
+How to Collect Diagnostics for Database Hanging Issues (Doc ID 452358.1)
+Troubleshooting Database Contention With V$Wait_Chains (Doc ID 1428210.1)
+EVENT: HANGANALYZE – Reference Note (Doc ID 130874.1)
+Important Customer information about using Numeric Events (Doc ID 75713.1)
+Script to Collect RAC Diagnostic Information (racdiag.sql) (Doc ID 135714.1)
+################################################################################################################################################
+Hang-analyze in Oracle Database- a case study
+How to Collect Systemstate Dumps When you Cannot Connect to Oracle (Doc ID 121779.1)
+Important Customer information about using Numeric Events (Doc ID 75713.1)
+https://grepora.com/2016/12/14/hanganalyze-part-1/
+https://grepora.com/2017/01/04/systemstate-dump/
+https://grepora.com/2016/12/28/ashdump-for-instance-crashhang-post-mortem-analysis/
+http://facedba.blogspot.in/2014/04/hanganalyze-case-study.html
+
+Analysis:
+
+(1) Let’s examine the file. Here are first few lines:
+
+*** 2014-03-23 01:21:44.200
+==============
+HANG ANALYSIS:
+==============
+Found 163 objects waiting for
+<0/226/17/0x1502dab8/16108/no>
+Open chains found:
+Chain 1 : :
+<0/226/17/0x1502dab8/16108/no>
+<0/146/1/0x1503e898/19923/latch:>
+
+This tells me a lot. First it shows that the SID 146 Serial# 17 is waiting for library cache latch. The blocking session is SID 226
+Serial# 17. The latter is not waiting for anything of blocking nature. I also noted the OS process IDs of these sessions – 16108 and 19923.
+
+(2) Next I checked for two more tracefiles with these OS PIDs in their names.
+
+finprd1_ora_16108.trc
+finprd1_ora_19923.trc
+
+(3) I opened the first one, the one that is the blocker. Here are the first few lines:
+
+*** 2014-03-23 01:08:18.840
+*** SERVICE NAME:(SYS$USERS) 2008-08-23 01:08:18.781
+*** SESSION ID:(226.17) 2008-08-23 01:08:18.781
+LIBRARY OBJECT HANDLE: handle=c0000008dc703810 mtx=c0000008dc703940(8000) cdp=32737
+name=UPDATE FIN_STAT.FRRS_PROFILER SET CONSUMER_LINK = :"SYS_B_0", ADDRESS_LINK = :"SYS_B_1",
+ADDRESS_MATCH = :"SYS_B_2", PROC
+ESSED=:"SYS_B_3" WHERE RNUM = :"SYS_B_4"
+hash=a029fce7bb89655493e7e51a544592a4 timestamp=08-23-2008 00:10:23
+namespace=CRSR flags=RON/KGHP/TIM/OBS/PN0/MED/KST/DBN/MTX/[504100d0]
+kkkk-dddd-llll=0000-0001-0001 lock=N pin=0 latch#=10 hpc=0058 hlc=0058
+xxxxxxxxxxx
+xxxxxxxxxxx
+LOCK OWNERS:
+lock user session count mode flags
+---------------- ---------------- ---------------- ----- ---- ------------------------
+c0000008d079f1b8 c0000006151744d8 c0000006151744d8 16 N [00]
+c0000008d4e90c40 c0000006151bcb58 c0000006151bcb58 16 N [00]
+c0000008d0812c40 c0000008151a0438 c0000008151a0438 16 N [00]
+
+(4) This is a big find of information for debugging. First it shows the SID and Serial# (226.17), which confirms the SID we identified earlier. 
+It shows the exact SQL statement being used. Finally it shows all the locks. I didn’t particularly care about the specifics of locks; but it gave 
+me enough information to prove that the SID 226 was causing a wait for a whole lot of other sessions.
+
+(5) I started further investigation. I need to find out the sessions waiting for this. So, I searched the file for a section called “PROCESS STATE”. 
+Here is a snippet from the file:
+
+PROCESS STATE
+-------------
+Process global information:
+process: c00000081502dab8, call: c000000817167890, xact: 0000000000000000, curses: c00000081519ef88, usrses: c00000081519ef88
+----------------------------------------
+SO: c00000081502dab8, type: 2, owner: 0000000000000000, flag: INIT/-/-/0x00
+(process) Oracle pid=370, calls cur/top: c000000817167890/c000000817167890, flag: (0) -
+int error: 0, call error: 0, sess error: 0, txn error 0
+(post info) last post received: 115 0 4
+last post received-location: kslpsr
+last process to post me: c000000615002038 1 6
+last post sent: 0 0 24
+last post sent-location: ksasnd
+last process posted by me: c000000615002038 1 6
+(latch info) wait_event=0 bits=20
+holding (efd=4) c0000008d7b69598 Child library cache level=5 child#=10
+Location from where latch is held: kglhdgc: child:: latch
+Context saved from call: 13
+state=busy, wlstate=free
+waiters [orapid (seconds since: put on list, posted, alive check)]:
+291 (197, 1219468295, 197)
+279 (197, 1219468295, 197)
+374 (197, 1219468295, 197)
+267 (197, 1219468295, 197)
+372 (197, 1219468295, 197)
+... several lines sniped ...
+307 (15, 1219468295, 15)
+181 (6, 1219468295, 6)
+waiter count=58
+Process Group: DEFAULT, pseudo proc: c0000008e03150d8
+O/S info: user: oracrmp, term: UNKNOWN, ospid: 16108
+OSD pid info: Unix process pid: 16108, image: oracle@sdwhpdb1
+
+(6) This told me everything I needed to know. There were 58 sessions waiting for library cache latch held by SID 226. I also knew the OS Process ID 
+and the SQL statement of the blocking session.
+
+(7) At that time we engaged the Application Owner to explain what was going on. As he explained it, he issues the update statement in a loop. And 
+that’s not all; he executes it in 8 different threads. No wonder we have had library cache latch contention. So, we had to track 8; not just one 
+session. We trudged on. All the sessions dumped their information. So, I searched the directory for some other files with the same issues:
+
+$ grep “UPDATE FIN_STAT” *.trc
+
+(8) And I found 9 more sessions (or, rather, processes). Here is a snippet from another file:
+
+350 (167, 1219470122, 167)
+197 (167, 1219470122, 167)
+waiter count=185
+Process Group: DEFAULT, pseudo proc: c0000008e03150d8
+O/S info: user: oracrmp, term: UNKNOWN, ospid: 16114
+
+This process had 185 waiters! Ouch!
+
+(9) Now comes a decision point. I knew who is 
+
+ and who were being blocked; although I didn’t yet know what latch exactly is being contented for
+. I could have dumped the library cache latches to get that information; but the application owner volunteered to terminate the sessions. The application, fortunately, was restartable. So, we decided to kill all of these errant sessions on the unix prompt.
+
+$ kill -9 xxxxx
+
+(10) After killing a few processes, the database started responding. After killing all of them, the database wait events came back to completely normal. Connections were established and applications started behaving normally.
+
+Conclusion :
+When you can’t logon to the database to get the information from V$SESSION (EVENT), try using oradebug command to do hanganalyze. Of course to run oradebug you should connect to sqlplus and in hang situation sqlplus -prelim is the hero. [Note, sqlplus -prelim option is present only in Oracle 10g and above]
+
+Note: This may take as sample analysis. You can have your own analysis also. In any critical situation take Oracle Support help for your production databases.
+
+################################################################################################################################################
+
+
+#########################################################################################sau#######################################################
+How To Stop A Running Job Using DBMS_JOB (Doc ID 1335741.1)
+NOTE:404235.1 - How To Remove An Entry From DBA_JOBS
+
+#########################################################################################sau#######################################################
+EXPDP backup fails – EXCLUDE and INCLUDE options
+
+http://www.orskl.com/expdp-backup-fails-exclude-and-include-options/
+
+Export import to the remote server: without database up on the target side(for export)
+https://www.toadworld.com/platforms/oracle/b/weblog/archive/2015/02/14/exp-amp-expdp-export-file-to-remote-server
+
+Export/Import DataPump Parameters INCLUDE and EXCLUDE - How to Load and Unload Specific Objects (Doc ID 341733.1)
+Export/Import DataPump Parameter TABLES - How to Export and Import Tables Residing in Different Schemas (Doc ID 277905.1)
+Checklist For Slow Performance Of DataPump Export (expdp) And Import (impdp) (Doc ID 453895.1)
+Export/Import DataPump Parameter QUERY - How to Specify a Query (Doc ID 277010.1)
+Data Pump Import With EXCLUDE=CONSTRAINT Or INCLUDE=CONSTRAINT Is Excluding And Respectively Not Including NOT NULL Constraints (Doc ID 1930631.1)
+################################################################################################################################################
+
+LogMiner:
+http://www.idevelopment.info/data/Oracle/DBA_tips/LogMiner/
+http://www.idevelopment.info/data/Oracle/DBA_tips/LogMiner/LOGMINER_13.shtml
+http://www.idevelopment.info/data/Oracle/DBA_tips/LogMiner/LOGMINER_28.shtml
+http://www.idevelopment.info/data/Oracle/DBA_tips/LogMiner/LOGMINER_15.shtml
+
+################################################################################################################################################
+Performance Tuning:
+Video of performance tuning:
+
+Archive of Database Performance Related Webcasts and Videos (Doc ID 1597373.1)
+NOTE:1456176.1 - Oracle Database Advisor Webcast Schedule and Archive recordings
+
+log it trace it:
+SQL Parsing Flow Diagram (Doc ID 32895.1)
+http://koenigocm.blogspot.in/2012/01/tkprof-interpretation.html
+NOTE:224270.1 - TRCANLZR (TRCA): SQL_TRACE/Event 10046 Trace File Analyzer - Tool for Interpreting Raw SQL Traces
+
+Use Jonathan lewis blog to study all performance cases many example are there.
+
+Visualize your database performance statistics using Tableau.:
+https://fatdba.com/2018/01/28/visualize-your-database-performance-statistics-using-tableau/
+Using Flame Graphs to analyze performance & workloads: Part 1
+https://fatdba.com/2018/01/13/using-flame-graphs-to-analyze-performance-workloads-part-1/
+
+How to Tell if the I/O of the Database is Slow (Doc ID 1275596.1)
+Troubleshooting I/O Related Waits (Doc ID 223117.1)
+WAITEVENT: "db file sequential read" Reference Note (Doc ID 34559.1)
+Document 30712.1 Init.ora Parameter "DB_FILE_MULTIBLOCK_READ_COUNT" Reference
+Document 1037322.6 WHAT IS THE DB_FILE_MULTIBLOCK_READ_COUNT PARAMETER?
+
+Explain Plan:
+https://databaseinternalmechanism.com/oracle-database-internals/interpreting-an-explain-plan/
+https://www.red-gate.com/simple-talk/sql/oracle/execution-plans-part-8-cost-time-etc/
+http://facedba.blogspot.com/2014/04/interpreting-explain-plan-for-beginners.html
+Interpreting Explain plan (Doc ID 46234.1)
+
+
+Statspack:
+https://jonathanlewis.wordpress.com/statspack-examples/
+NOTE:2020285.1 - Installing and Using Standby Statspack in 12c Multitenant Database
+Standby staspack: http://joordsblog.vandenoord.eu/2009/11/installing-and-using-standby-statspack.html
+Installing and Using Standby Statspack (Doc ID 454848.1)
+
+
+wait event:
+http://dbaranjit.blogspot.in/2013/08/some-performance-related-issues.html
+http://psoug.org/reference/
+http://dbaranjit.blogspot.in/2016/08/queries-1.html
+http://dbaranjit.blogspot.in/2016/08/dba-query-2.html
+https://samadhandba.wordpress.com/category/performance-tunning/	
+http://www.nocoug.org/download/2015-05/NoCOUG_201505_Griffin_Query_Tuning.pdf
+
+https://sites.google.com/site/embtdbo/wait-event-documentation		--wait event doc.
+https://sites.google.com/site/embtdbo/wait-event-documentation/oracle-io-waits
+https://sites.google.com/site/embtdbo/profiler
+http://smahamed.blogspot.in/2010/11/scripts.html
+
+Waitevent cases: Very details explanation
+http://sateeshv-dbainfo.blogspot.in/2015/08/library-cache-lock-waits-causes-and.html
+
+Information Center: Database Performance Overview (Doc ID 1512292.2)
+Information Center: SQL Query Performance Overview (Doc ID 1516494.2)
+Instance Tuning Using Performance Views:
+https://docs.oracle.com/cd/E29505_01/server.1111/e16638/instance_tune.htm#i16848
+
+Master Note: Database Performance Overview (Doc ID 402983.1)
+TROUBLESHOOTING: Tuning Slow Running Queries (Doc ID 179668.1)
+17 - 21  -- Real application cluster , INTERVIEW question
+22 - 25  -- Golden gate, admin 1 - 2 revision with common problems and note down the query, INTERVIEW question
+26 - 29	 -- Performance Tuning,admin 1 - 2 revision with common problems and note down the query, INTERVIEW question
+
+SQL Plan Management:
+https://blogs.oracle.com/optimizer/sql-plan-management-part-1-of-4-creating-sql-plan-baselines
+https://blogs.oracle.com/optimizer/sql-plan-management
+
+Tracing:
+=======
+https://docs.oracle.com/database/121/TGSQL/tgsql_trace.htm#TGSQL791
+PACKAGE DBMS_APPLICATION_INFO Specification (Doc ID 30366.1)
+Document 21154.1 EVENT: 10046 "enable SQL statement tracing (including binds/waits)" 
+Document 1274511.1 General SQL_TRACE / 10046 trace Gathering Examples
+Document 160124.1 How to Set SQL Trace on with 10046 Event Trace which Provides the Bind Variables
+Document 371678.1 Capture 10046 Traces Upon User Login (without ption a trigger)
+Document 1102801.1 How to Get 10046 Trace for Parallel Query
+Document 242374.1 Tracing PX session with a 10046 event or sql_trace
+Document 258418.1 Getting 10046 Trace for Export and Import
+Trace Interpretatioon:
+Document 199081.1 SQL_TRACE (10046), TKProf and Explain Plan - Overview Reference 
+Document 39817.1 Interpreting Raw SQL_TRACE and DBMS_SUPPORT.START_TRACE output 
+
+Document 224270.1 Trace Analyzer TRCANLZR - Interpreting Raw SQL Traces with Binds and/or Waits generated by EVENT 10046 
+
+Document 41634.1 - TKProf Basic Overview 
+Document 32951.1 - TKProf Interpretation (9i and below) 
+Document 760786.1 - TKProf Interpretation (9i and above) 
+Document 214106.1 - Using TKProf to compare actual and predicted row counts 
+
+Document 199083.1 * Master Document SQL Query Performance Overview 
+Document 398838.1 * FAQ: SQL Query Performance - Frequently Asked Questions
+NOTE:369154.1 - How to Execute Alter Session Statements for Remote Sessions
+NOTE:258754.1 - Tracing session created through dblink
+NOTE:422455.1 - How To Trace A Dblink (Database Link) Activity (On Local And Remote Sides) using 10046 event
+Common Observations, Causes, and Solutions for Oracle Database Performance Issues (Doc ID 1453975.1)
+
+AWR:
+----
+awrddrpt.sql : This script is the AWR "diff" report for comparing two AWR reports.
+Performance Diagnosis with Automatic Workload Repository (AWR) (Doc ID 1674086.1)
+How to generate 'Automatic Workload Repository' ( AWR), 'Automatic Database Diagnostic Monitor' (ADDM), 'Active Session History' (ASH) reports. (Doc ID 2349082.1)
+	
+https://www.youtube.com/watch?v=P4WdxYVzgQk&t=828s
+	
+http://sateeshv-dbainfo.blogspot.in/2017/07/how-to-read-awr-reports.html
+
+Sample AWR Report to study:
+http://www.dbaref.com/home/dba-routine-tasks/sampleawrreport
+
+SQLT:
+------
+Using Sqltxplain to create a ‘SQL Profile’ to consistently reproduce a good plan [ID 1487302.1]
+How to Generate a SQLT of a SQL Statement That Hangs or Raises an Error (Doc ID 2146816.1)
+SQLT Main Report: Usage Suggestions (Doc ID 1922234.1)
+FAQ: SQLT (SQLTXPLAIN) Frequently Asked Questions (Doc ID 1454160.1)
+
+SQLT (SQLTXPLAIN) – Tool that helps to diagnose a SQL statement performing poorly or one that produces wrong results [ID 215187.1]
+	Using Sqltxplain To Create A 'SQL Profile' To Consistently Reproduce a Good SQL Plan (Doc ID 1487302.1)
+	All About the SQLT Diagnostic Tool (Doc ID 215187.1)
+	SQL Tuning Health-Check Script (SQLHC) (Doc ID 1366133.1)
+	FAQ: SQLT (SQLTXPLAIN) Frequently Asked Questions (Doc ID 1454160.1)
+	Best Practices: Proactively Avoiding Database and Query Performance Issues (Doc ID 1482811.1)
+
+SQL Tuning Advisor provides you with the following information :
+(1) SQL Profile
+(2) Index Recommendations
+(3) Statistics information
+(4) Restructure SQL
+(5) Alernate execution plan
+
+https://raadin.wordpress.com/2014/07/04/oracle-11g-sql-tuning-advisor/
+
+sql access advisor:
+tells us building index partition and materalise views.
+
+sql-performance-analyzer:
+it is used to compare the performace when we create the index or change the parameter.
+https://raadin.wordpress.com/2014/06/30/sql-performance-analyzer-11g/
+
+SQL profiles:
+SQL profiles consist of auxiliary statistics specific to the statement. The query optimizer makes estimates about cardinality, selectivity, and 
+cost that can sometimes be off by a significant amount, resulting in poor execution plans. The SQL profile addresses this problem by collecting 
+additional information using sampling and partial execution techniques to adjust these estimates.
+https://raadin.wordpress.com/2014/07/04/oracle-11g-sql-profile-administration/
+http://oradba11g.blogspot.in/2015/01/pinning-execution-plan-for-sqlid-using.html
+
+Retrieve SQL and Execution Plan from AWR Snapshots :
+====================================================
+
+---Using sql text--
+col parsed format a6
+col sql_text format a40
+set lines 200
+set pages 300
+
+select     
+ sql_text,
+ parsing_schema_name as parsed,
+ elapsed_time_delta/1000/1000 as elapsed_sec,
+ stat.snap_id,
+ to_char(snap.end_interval_time,'dd.mm hh24:mi:ss') as snaptime,
+ txt.sql_id
+from     
+ dba_hist_sqlstat stat,
+ dba_hist_sqltext txt,
+ dba_hist_snapshot snap
+where     
+ stat.sql_id=txt.sql_id and
+ stat.snap_id=snap.snap_id and
+ snap.begin_interval_time>=sysdate-1 and
+ lower(sql_text) like '%&t%' and
+ parsing_schema_name not in ('SYS','SYSMAN','MDSYS','WKSYS')
+order by elapsed_time_delta asc;
+
+----using sqlid ------
+
+select plan_table_output from table (dbms_xplan.display_awr('&sqlid'));
+
+Rebuild Index: (Remove duplicate rows)
+--------------------------------------
+
+select * from emp where rowid not in(select max(rowid) from emp group by empno);
+select column_name, count(1) from table group by column_name having count (column_name) > 1;
+DELETE FROM table_name WHERE rowid NOT IN (SELECT max(rowid) FROM table_name GROUP BY id);
+ 
+
+ORATOP:
+--------
+oratop – Utility for Near Real-time Monitoring of Databases, RAC and Single Instance (Doc ID 1500864.1)
+
+./oratop -f -d -i 10 / as sysdba
+
+optionally you press x
+
+Then you can put sql_id to see the execution plan as well.
+
+-----------------------------------------Check performance of particular query-----------------------------------------------------------
+   
+set ver off pages 50000 lines 260 tab off
+undef sql_id
+undef days_history
+undef interval_hours
+def sql_id="&1"
+def days_history="&2"
+def interval_hours="&3"
+col time for a19
+col executions for 9999999999
+col rows_processed_1exec for 9999999.999
+col elapsed_time_s_total for 9999999.999
+col elapsed_time_s_1exec for 9999999.999
+col cpu_time_s_1exec for 9999999.999
+col iowait_s_1exec for 9999999.999
+
+col clwait_s_1exec for 9999999.999
+col apwait_s_1exec for 9999999.999
+col ccwait_s_1exec for 9999999.999
+col plsexec_time_s_1exec for 9999999.999
+col javexec_time_s_1exec for 9999999.999
+col buffer_gets_1exec for 999999999999.999
+col disk_reads_1exec for 999999999999.999
+col direct_writes_1exec for 999999999999.999
+select to_char(trunc(sysdate-&days_history+1)+trunc((cast(hs.begin_interval_time as date)-(trunc(sysdate-&days_history+1)))24/(&interval_hours))(&interval_hours)/24,'dd.mm.yyyy hh24:mi:ss') time,
+    nvl(sum(hss.executions_delta),0) executions,hss.optimizer_cost,
+    round(sum(hss.elapsed_time_delta)/1000000,3) elapsed_time_s_total,
+    round(sum(hss.elapsed_time_delta)/1000000/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) elapsed_time_s_1exec,
+    round(sum(hss.cpu_time_delta)/1000000/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) cpu_time_s_1exec,
+    round(sum(hss.iowait_delta)/1000000/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) iowait_s_1exec,
+    round(sum(hss.clwait_delta)/1000000/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) clwait_s_1exec,
+    round(sum(hss.apwait_delta)/1000000/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) apwait_s_1exec,
+    round(sum(hss.ccwait_delta)/1000000/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) ccwait_s_1exec,
+    round(sum(hss.rows_processed_delta)/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) rows_processed_1exec,
+    round(sum(hss.buffer_gets_delta)/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) buffer_gets_1exec,
+    round(sum(hss.disk_reads_delta)/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) disk_reads_1exec,
+    round(sum(hss.direct_writes_delta)/decode(sum(hss.executions_delta),0,null,sum(hss.executions_delta)),3) direct_writes_1exec
+from dba_hist_sqlstat hss, (select snap_id, min(hs2.begin_interval_time) begin_interval_time from dba_hist_snapshot hs2 group by snap_id) hs
+where hss.sql_id(+)='&SQL_ID'
+and hss.snap_id(+)=hs.snap_id
+and hs.begin_interval_time>=trunc(sysdate)-&days_history+1
+group by trunc(sysdate-&days_history+1)+trunc((cast(hs.begin_interval_time as date)-(trunc(sysdate-&days_history+1)))24/(&interval_hours))(&interval_hours)/24,hss.optimizer_cost
+order by trunc(sysdate-&days_history+1)+trunc((cast(hs.begin_interval_time as date)-(trunc(sysdate-&days_history+1)))24/(&interval_hours))(&interval_hours)/24
+/
+
+SQL Monitor / V$sql_monitoring / V$SQL_PLAN_MONITOR / Real time monitoring:
+===========================================================================
+SELECT DBMS_SQLTUNE.report_sql_monitor(sql_id => ‘fwhp6ukwmb1fj’, type => ‘HTML’, report_level => ‘ALL’) AS report FROM dual;
+
+https://www.google.co.in/amp/s/mauro-pagano.com/2015/05/04/historical-sql-monitor-reports-in-12c/amp/
+https://blogs.oracle.com/datawarehousing/monitoring-parallel-execution-using-real-time-sql-monitoring-in-oracle-database-12c/comment-submitted?cid=402b7f05-f73c-4fb5-98e5-b9270ce84dcb
+
+
+################################################################################################################################################
+Resource Manager:
+=================
+NOTE:1484302.1 - Master Note: Overview of Oracle Resource Manager and DBMS_RESOURCE_MANAGER
+Managing and Monitoring Runaway Query Using Resource Manager (Doc ID 1600965.1)
+NOTE:277419.1 - Prevention of long-running queries with Resource Manager MAX_EST_EXEC_TIME Plan Directive Parameter
+NOTE:1340184.1 - Recommended Patches for Managing Runaway Queries with Oracle Database Resource Manager
+NOTE:1485199.1 - After Upgrade to 11g Resource Manager SWITCH_TIME to CANCEL_SQL or KILL_SESSION directives does not work as expected ORA-00040
+################################################################################################################################################
+UPGRADE:
+========
+Complete Checklist for Manual Upgrade to Oracle Database 11gR2 (11.2) (Doc ID 837570.1)
+
+8669627259
+
+################################################################################################################################################
+OEM:
+====
+https://ahmadfattah.wordpress.com/oracle-enterprise-manager-13c-13-2-installation-on-linux/
+
+http://docs.oracle.com/cd/E73210_01/index.htm --------------------------------------------------|
+https://oracle-base.com/articles/12c/cloud-control-12cr5-installation-on-oracle-linux-5-and-6---|----OEM 13c doc of oracle
+https://oracle-base.com/articles/12c/cloud-control-12cr2-post-installation-setup-tasks----------|
+http://www.snapdba.com/category/enterprise-manager/em12c/ --------------------------------------|
+
+OEM Install: http://samappsdba.blogspot.com/2018/11/installing-oem-13c-and-deployment-of.html
+EM 12c, EM 13c: Getting Started with Enterprise Manager for DBA's - Videos (Doc ID 1615382.1)
+EM 12c, EM 13c: Setting up the Email Notification Method in Enterprise Manager 12c [Video] (Doc ID 1612329.1)
+EM13c: Cookbook for Discovering Virtualized Exadata in the Cloud Control 13c (Doc ID 2371839.1)
+EM13c: Cookbook for Discovering Exadata in EM Cloud Control 13c (Doc ID 2371835.1)
+How To Configure Notification Rules in Enterprise Manager Grid Control (Doc ID 429422.1)
+EM 13c: How to Modify the Default Retention and Purging Policies for Metric Data in the Enterprise Manager Repository (Doc ID 2251910.1)
+EM13c : EM_JOB_PURGE_POLICIES & EM_PURGE_POLICIES DBMS Jobs are not Running on Schedule (Doc ID 2396907.1)
+
+https://docs.huihoo.com/oracle/enterprise-manager/12c/doc.121/e24473/repository.htm
+
+################################################################################################################################################
+Red -hat linux prerequisite for the oracle database installation-on-linux:
+=========================================================================
+https://oracle-base.com/articles/linux/articles-linux
+
+Oracle ASMLib Downloads for Red Hat Enterprise Linux  5:
+========================================================
+http://www.oracle.com/technetwork/server-storage/linux/asmlib/index-101839.html
+http://www.oracle.com/technetwork/server-storage/linux/downloads/rhel5-084877.html
+
+ORACLE RAC Installation on Virtual BOX:
+=======================================
+https://oracle-base.com/articles/11g/oracle-db-11gr2-rac-installation-on-oel5-using-virtualbox
+
+
+UNIX for DBA:
+=============
+https://oracle-base.com/articles/misc/unix-for-dbas
+
+ACFS:
+=====
+How to Mount or Unmount ACFS File System While Applying GI Patches? (Doc ID 1494652.1)
+NOTE:1002239.1 - How to Determine the Release and Default Kernel Version in the Solaris Operating System
+NOTE:1322383.1 - How To Create A New ACFS Volume & Filesystem And Set The ACFS Filesystem Ownership To A Non-Grid/Oracle OS User (on Oracle Restart/SIHA/Standalone)?
+NOTE:1493491.1 - 11.2.0.3.3 Grid Infrastructure Patchset: 13919095 Installation On RH 6.3 Fails With ACFS-9459 .
+NOTE:2000037.1 - Mounting ACFS Filesystem Hangs On "mount.acfs.bin[#] asmIoctl_int: Invalid ioctl type for dev #"
+To get the AIX release # execute "oslevel -r ", “lslpp -h bos.rte” & “uname -a” 
+NOTE:1926850.1 - Only Shared ACFS Filesystems Are Supported/Certified for Database RDBMS Oracle Homes on RAC Cluster Configurations
+NOTE:1173978.1 - How To Resize An ACFS Filesystem/ASM Volume (ADVM)
+NOTE:1932081.1 - During "acfsroot install' in AIX: ACFS-11022: failed to configure device ofsctl, errno 17 (File exists)
+NOTE:1517113.1 - How To Convert A General Purpose ACFS Filesystem To CRS Managed On Release 11.2.0.X?
+NOTE:1268895.1 - Error 'Multipathd: Asm!.Asm_ctl_spec: Failed To Store Path Info' found In /var/log/messages
+NOTE:1523204.1 - ASM/ACFS 11.2: Example/Demo About How To Convert A Registry Managed ACFS Filesystem To CRS Managed On Release 11.2.0.X.
+ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive 
+ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive 
+ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive ASMFD ASM Filter Drive 
+NOTE:1371067.1 - How To Install/Reinstall Or Deinstall ACFS Modules/Installation Manually?
+NOTE:1621448.1 - Running Rootupgrade.sh For 11.2.0.4 HAS Upgrade Fails At Stage : Acfsroot Install
+NOTE:1003583.1 - Overview of Kernel Patches for the Solaris 8, 9 and 10 Operating Systems
+NOTE:1384276.1 - "du" & "df" OS commands Report Space Used Differences On ACFS Filesystems.
+NOTE:1966668.1 - ACFS/ADVM API Installation/Reinstallation Failed With “acfsutil plogconfig: ACFS-00515: version mismatch” After PSU Installation
+NOTE:1270987.1 - ACFS-03008: The Volume Could Not Be Resized At The 5th Attempt.
+NOTE:2034681.1 - ASMFD (ASM Filter Driver) Support on OS Platforms (Certification Matrix).
+NOTE:2033458.1 - 12c ACFS Filesystem Configuration on Standard ASM configurations (White Paper)
+NOTE:1996712.1 - White Paper: Renaming Directories (Folders) on 12c ACFS Filesystems on Windows 2012 (R1/R2) Hangs and Crashes the RAC Node(S)
+NOTE:1524195.1 - ASM/ACFS 11.2: How To Create A General Purpose ACFS Filesystem (Registry Managed) On RAC Through the ASMCA Assistance. 
+NOTE:1917971.1 - ORA-15490:not all instances could add/drop the volume
+NOTE:1484221.1 - ASM/ACFS 11.2/12.1: How To Create “A CRS Managed" ACFS FileSystem On a Cluster RAC Configuration Through the ASMCA Assistance Or Command-Line
+To get the Solaris release # execute "# cat /etc/release " & “uname -a” 
+NOTE:1486208.1 - “ora.registry.acfs” ("ora.drivers.acfs") Resource Was Not Configured Therefore RAC ACFS Filesystem Is Not Mounting During The Reboot.
+NOTE:1934305.1 - How to Recreate an ACFS CRS Resource Associated to an ACFS Filesystem
+NOTE:1547335.1 - Opatch Conflicts Reported During The “Patch 12983005 < 2.6.39 (UEK) SUPPORT FOR ACFS >” Installation (Conflicts Between Patch: 12983005 & Patch: 15876003).
+NOTE:2024027.1 - 12c ACFS Configuration on ASM Flex Architecture (White Paper & Demo)
+NOTE:1350188.1 - How To Setup 11.2.0.X ACFS On Windows (64-bit) On RAC.
+To get the SLE SP# execute "#cat /etc/SuSE-release" 
+NOTE:1369107.1 - ACFS Support On OS Platforms (Certification Matrix).
+################################################################################################################################################
+Create the sample table near about the 1.5GB data:
+--------------------------------------------------
+create table sales as
+select
+rownum as id,
+rownum + 1 as flag,
+'Oracle Enterprise Edition' as product,
+mod(rownum,5) as channel_id,
+mod(rownum,1000) as cust_id ,
+5000 as amount_sold,
+trunc(sysdate - 10000 + mod(rownum,10000))
+as order_date,
+trunc(sysdate - 9999 + mod(rownum,10000))
+as ship_date
+from dual connect by level<=2e7;
+
+################################################################################################################################################
+
+Trobulshooting client process:
+------------------------------
+http://sateeshv-dbainfo.blogspot.in/2017/06/master-note-troubleshooting-oracle-user.html
+NOTE:207303.1 - Client / Server Interoperability Support Matrix for Different Oracle Versions
+NOTE:1504268.1 - Master Note: Overview of User (Client) Processes
+Troubleshooting Session Administration (Doc ID 805586.1) 
+A discussion of Dead Connection Detection, Resource Limits, V$SESSION, V$PROCESS and OS processes (Doc ID 601605.1)
+
+################################################################################################################################################
+Database health check up script :
+---------------------------------
+https://www.bmc.com/blogs/top-dba-shell-scripts-for-monitoring-the-database/
+http://shahiddba.blogspot.com/2012/03/database-health-check-scripts.html
+https://www.club-oracle.com/resources/db-health-checkup-scripts.12382/
+http://dba-tips.blogspot.com/2015/05/oracle-database-health-check-script.html
+https://www.club-oracle.com/resources/db-health-checkup-scripts.12382/
+
+
+################################################################################################################################################
+To get Actual, Optimal, Reclaimable Size from the tables of a specific user
+
+set linesize 200 trimspool on
+col owner for a22
+col table_name for a30
+col tablespace_name for a20
+select t.owner,t.table_name, s.tablespace_name,
+round(s.bytes/1024/1024) actual_MB,
+round((t.num_rows+1) * t.avg_row_len/1024/1024) optimal_MB,
+round(s.bytes/1024/1024) -
+round((t.num_rows+1) * t.avg_row_len/1024/1024) CLAIMABLE_MB
+from dba_tables t, dba_segments s
+where t.owner = s.owner and s.owner='&owner_name'
+and  t.table_name = s.segment_name
+and round(s.bytes/1024/1024) - round((t.num_rows+1) * t.avg_row_len/1024/1024) > 200
+order by CLAIMABLE_MB desc
+/
+
+How to Shrink Datafiles:
+
+http://dbaranjit.blogspot.com/2013/08/how-to-shrink-datafiles.html
+https://oracle-base.com/articles/misc/alter-table-shrink-space-online
+check for the limitations of the shrinking.
+
+Superb blog on the shrink:
+
+http://talek.github.io/blog/2014/07/18/shrink-segments/
+
+Note id : 	Doc ID 242090.1
+			Doc ID 820043.1
+
+Quaries to check how much datafile can be shrinked:
+--------------------------------------------------
+set verify off
+column file_name format a50 word_wrapped
+column smallest format 999,990 heading "Smallest|Size|Poss."
+column currsize format 999,990 heading "Current|Size"
+column savings  format 999,990 heading "Poss.|Savings"
+break on report
+compute sum of savings on report
+column value new_val blksize
+select value from v$parameter where name = 'db_block_size';
+/
+select file_name,
+       ceil( (nvl(hwm,1)*&&blksize)/1024/1024 ) smallest,
+       ceil( blocks*&&blksize/1024/1024) currsize,
+       ceil( blocks*&&blksize/1024/1024) -
+       ceil( (nvl(hwm,1)*&&blksize)/1024/1024 ) savings
+from dba_data_files a,
+     ( select file_id, max(block_id+blocks-1) hwm
+         from dba_extents
+        group by file_id ) b
+where a.file_id = b.file_id(+) order by savings desc
+/
+
+################################################################################################################################################
+FLASHBACK:
+----------
+http://dbaranjit.blogspot.com/2013/06/noracle-flashback-feature.html
+
+Master Note For Oracle Flashback Technologies (Doc ID 1138253.1)
+Flash Recovery Area:
+
+Note 305648.1 What is a Flash Recovery Area and how to configure it ?
+Note 369759.1 FLASH RECOVERY AREA and FLASHBACK database
+Note 833663.1 Flash Recovery Area - FAQ
+Note 560133.1 Benefits Of Using Flash Recovery Area
+Note 315098.1 How is the space pressure managed in the Flash Recovery Area - An Example.
+Note 305812.1 Flash Recovery area - Space management Warning & Alerts
+Note 829755.1 Space issue in Flash Recovery Area( FRA )
+Note 305810.1 Configuring file creation in Flash recovery area and order of Precedence
+Note 305651.1 How to change Flash Recovery Area to a new location ?
+
+Flashback Database:
+
+Note 565535.1 Flashback Database Best Practices & Performance
+Note 834824.1 Recovering Dropped User using Flashback Database
+Note 330535.1 Restore Points in Oracle10g Release2
+Note 369759.1 FLASH RECOVERY AREA and FLASHBACK database
+Note 761126.1 CALCULATE THE VOLUME OF FLASHBACK LOG GENERATION
+Note 454768.1 Can you use flashback database if a period of noarchivelog exists
+Note 566647.1 Guaranteed Restore Point with Flashback Database disabled generates too many flashback logs
+Note 342764.1 Flashback 'ON' fails with ORA-38706 and ORA-38714
+Note 829254.1 Database Crashed With ORA-19815 ORA-19809 ORA-16038
+Note 554445.1 ORA-26040 FLASHBACK DATABASE WITH NOLOGGING OBJECTS/ACTIVITIES RESULTS IN CORRUPTION
+Note 982104.1 Workaround for Flashback Database fails with ORA-38753 ORA-01110
+
+
+
+Flashback Drop:
+
+Note 265254.1 Flashback Table Feature in Oracle Database 10g
+Note 266477.1 Purge, Flashback Before Drop While Multiple Tables in the Recyclebin With Same Name
+Note 265253.1 10g Recyclebin Features And How To Disable it( _recyclebin )
+Note 433768.1 Invalid Object BIN$xxx In DBA_OBJECTS But None Exists in RECYCLEBIN
+The following is the step-by-step process of Flashback of RAC database to a Restore Point.
+
+Flashback Table:
+
+Note 246421.1   How to recover Table data Using the Flashback Table Feature
+Note 270060.1   Use Flashback Table Feature and Resolve errors
+Note 266536.1   What are the SELECT ANY TRANSACTION / FLASHBACK ANY TABLE Privileges ?
+Note 781112.1   How to flashback MVs and MV referred tables
+
+Flashback Query:
+
+Note 174425.1   Oracle9i Recovering lost data through Flashback Query
+Note 204334.1   Parameters FLASHBACK_SCN And FLASHBACK_TIME Point In Time Export
+
+Flashback Versions:
+
+Note 270270.1  Flashback Version Query & Flashback Transaction Query - Oracle 10G Enhancement
+Note 268611.1  FLASHBACK VERSIONS QUERY GIVES ORA-600 [15201] ERROR
+
+Flashback Transaction:
+
+Note 317499.1   10G Oracle Flashback Transaction Query - Introduction and usage
+Note 270270.1   Flashback Version Query & Flashback Transaction Query - Oracle 10G Enhancement
+
+Flashback Data Archive:
+
+Note 470199.1  11g feature Flashback Data Archive Guide.
+Note 566593.1  Are Flashback Archive Tables Exported During Schema Export
+Note 2039070.1 Known Issues with Flashback Data Archive (FDA)
+
+Flashback & Dataguard:
+
+Note 416310.1 Reinstating a Physical Standby Using Backups Instead of Flashback
+Note 805438.1 How To Open Physical Standby For Read Write Testing and Flashback
+Note 838249.1 Physical Standby Read/Write Testing With Belated Flashback Database
+Note 958557.1 How To Recover From A Drop/Truncate/Delete Table Done On Primary Using Flashback On A Standby Database
+Note 824213.1 Effect of doing PITR (point in time recovery) / Flashback on PRIMARY when Physical Standby in place ORA-19906 ORA-19909 ORA-01110
+
+How to enable the flashback in case of the RAC:
+
+(IMP NOTE: Please check the standby database flashback is on or off, make the standby data flashback on before doing on primary so that there
+you get the chance to revert on standby databse it will save your time to rebuild whole standby database otherwise you have
+to rebuild whole standby database)
+
+1) Set the environment to correct instance.
+ps -ef | grep pmon
+. oraenv
+
+2) Get restore point name and make note of it from sqlplus.
+SQL> select name, host_name, status from gv$instance;
+SQL> select log_mode,flashback_on from v$database;
+SQL> select name,time from v$restore_point;
+
+3) Stop the database and put it in mount state using srvctl
+srvctl status database -d MYTESTDB
+srvctl stop database -d MYTESTDB
+srvctl status database -d MYTESTDB
+srvctl start instance -d MYTESTDB -i MYTESTDB1 -o mount
+
+4) Flashback to restore point using sqlplus
+
+SQL> select instance_name,status from gv$instance;
+
+SQL> flashback database to restore point REST_POINT;
+
+SQL> alter database open resetlogs;
+
+Database altered.
+
+5) Stop and start the database and make sure all instances are up, using srvctl.
+
+srvctl stop database -d MYTESTDB
+srvctl start database -d MYTESTDB
+srvctl status database -d MYTESTDB
+
+################################################################################################################################################
+Log Miner:
+https://docs.oracle.com/cd/A87860_01/doc/server.817/a76956/archredo.htm#8232
+https://oracle-base.com/articles/11g/flashback-and-logminer-enhancements-11gr1#flashback_transaction
+
+select flashback_on from v$database;
+FLASHBACK_ON
+------------------
+NO
+create table teste (id number, nome varchar2(50));
+insert into teste values (1, 'fernando');
+insert into teste values (2, 'cintia');
+insert into teste values (3, 'maria');
+commit;
+
+ALTER DATABASE ADD SUPPLEMENTAL LOG DATA;
+
+SELECT * FROM TESTE;
+
+        ID NOME
+---------- ---------------------
+         1 fernando
+         2 cintia
+         3 maria
+
+DELETE TESTE WHERE ID=1;
+COMMIT;
+
+ALTER SYSTEM SWITCH LOGFILE;
+
+exec dbms_logmnr.add_logfile('<archivelog_full_path>/<last_archivelog_created>', options => dbms_logmnr.new);
+exec dbms_logmnr.start_logmnr(options => dbms_logmnr.dict_from_online_catalog);
+
+select operation, sql_redo from v$logmnr_contents where seg_name = 'TESTE';
+
+OPERATION    SQL_REDO
+------------ ----------------------------------------------------------------------------------------------------
+DELETE       delete from "SYS"."TESTE" where "ID" = '1' and "NOME" = 'fernando' and ROWID = 'AAAXZNAABAAAakZAAA';
+
+select sql_undo from v$logmnr_contents where seg_name = 'TESTE';
+
+SQL_UNDO
+-----------------------------------------------------------------------------------------------
+insert into "SYS"."TESTE"("ID","NOME") values ('1','fernando');
+
+Or use current redo log file
+exec dbms_logmnr.add_logfile('/u01/app/oracle/oradata/<SID>/redo03.log', options => dbms_logmnr.new);
+exec dbms_logmnr.start_logmnr(options => dbms_logmnr.dict_from_online_catalog);
+
+select * from v$logmnr_contents where seg_name = 'TESTE';
+
+
+################################################################################################################################################
+Partition / partitioning:
+-------------------------
+
+use the pdf from the partition folder
+
+https://richardfoote.wordpress.com/category/partitioning/
+
+################################################################################################################################################
+DATA PUMP:
+Oracle DataPump Quick Start (Doc ID 413965.1)
+
+http://www.oracleracexpert.com/search/label/Data%20Pump
+
+Note:
+scenario:
+we are trying to import the metadata but it is getting failed due to the space issue as no space available in the tablespace.
+At that time we have to check what are the objects type available there 
+
+Common Errors with Data pump import (impdp) utility:-
+
+1. ORA-31631: privileges are required
+   ORA-39122: Unprivileged users may not perform REMAP_SCHEMA remapping
+Cause: A user attempted to remap objects during an import but lacked the IMPORT_FULL_DATABASE privilege.
+Action: Retry the job from a schema that owns the IMPORT_FULL_DATABASE privilege.
+
+2. ORA-31631: privileges are required
+    ORA-39161: Full database jobs require privileges
+Cause: Either an attempt to perform a full database export without the EXP_FULL_DATABASE role or an attempt to perform a full database 
+import over a network link without the IMP_FULL_DATABASE role. 
+
+Action: Retry the operation in a schema that has the required roles.
+
+3. ORA-01950: no privileges on tablespace "string" 
+    Cause: User does not have privileges to allocate an extent in the specified tablespace.
+   Action: Grant the user the appropriate system privileges or grant the user space resource on the tablespace.
+
+Click here to learn Roles/ privileges required for Data pump Export and Import.
+
+4. import done in WE8MSWIN1252 character set and AL16UTF16 NCHAR character set
+    IMP-00017: following statement failed with ORACLE error 3113:
+    "BEGIN "
+    "SYS.DBMS_RULE_ADM.GRANT_SYSTEM_PRIVILEGE   SYS.DBMS_RULE_ADM.CREATE_EVALUATIO" "N_CONTEXT_OBJ, 'SYS',TRUE);"
+Cause: Import fails while executing the following command.
+Action: Login as sys and run the following scripts
+$ORACLE_HOME/rdbms/admin/dbmsread.sql 
+$ORACLE_HOME/rdbms/admin/prvtread.plb
+
+5. Import failed with below errors
+IMP-00003: ORACLE error 6550 encountered
+ORA-06550: line 2, column 1:
+PLS-00201: identifier 'CTXSYS.DRIIMP' must be declared
+Cause: The user that you are importing does not have privileages on CTXSYS.DRIIMP package or CTXSYS user does not exists
+Action: Create CTXSYS user or grant required permissions
+
+Transport Tablespace Import Common Errors:
+-------------------------------------------
+1. Oracle Error : EXP-00044: must be connected "AS SYSDBA" to do Point-in-time Recovery or Transportable Tablespace import
+Cause: The user must log in "as SYSDBA" to perform transportable tablespace imports or Point-In-Time Recovery imports.
+Action: Ask your database administrator to perform the Transportable Tablespace import or
+the Tablespace Point-in-time Recovery import.
+
+2. IMP-00017: following statement failed with ORACLE error
+19721:IMP-00003: ORACLE error 19721 encountered
+ORA-06512: at "SYS.DBMS_PLUGTS", line 2065
+ORA-06512: at line 1
+Cause: A duplicated data file name in the import parameters file was causing the issue
+Action: Modify the import parameters file with the right datafile name
+
+How to import when the characterset is different ?
+
+################################################################################################################################################
+ologgerd process consuming high CPU in 11.2.0.4 GI due to big BDB file (Doc ID 2055952.1)
+
+
+As in 11gR2, CHM stores OS resource information in the master node in Berkeley DB and if the .bdb files consume high space limit and there is a 
+change of a ologgerd master happened, it was not able to allocate so much space on the newly master node and it spins and that causing the high CPU
+
+crflogd.log:
+			[ clsdmc][2225567520]Fail to connect (ADDRESS=(PROTOCOL=ipc)(KEY=lrdnt006n01DBG_LOGD)) with status 9
+			[ clsdmt][2219116288]Listening to (ADDRESS=(PROTOCOL=ipc)(KEY=lrdnt006n01DBG_LOGD))
+			2015-08-29 08:59:37.008: [ clsdmt][2219116288]PID for the Process [824], connkey 6 
+			2015-08-29 08:59:37.008: [ clsdmt][2219116288]Creating PID [824] file for home /oracle_crs/product/11.2.0/crs_1 host lrdnt006n01 bin ologgerd to /oracle_crs/product/11.2.0/crs_1/ologgerd/init/
+			2015-08-29 08:59:37.008: [ clsdmt][2219116288]Writing PID [824] to the file [/oracle_crs/product/11.2.0/crs_1/ologgerd/init/lrdnt006n01.pid] 
+			2015-08-29 08:59:37.506: [ default][2225567520]Registering myself as active in /oracle_crs/product/11.2.0/crs_1/crf/admin/run/crflogd//llrdnt006n01.pid with Pid:824 
+			2015-08-29 08:59:37.589: [CRFLDREP][2225567520]BDB space utilization will be 28524904534032 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Here!
+
+			
+SOLUTION:
+
+Remove those large Berkeley database files to free up space:
+
+1. Stop CRF, as root user.
+
+# $GI_HOME/bin/crsctl stop res ora.crf -init 
+ 
+2. Take backup or remove bdb files.
+
+# cd $GI_HOME/crf/db/<nodename> 
+
+# mv *.bdb *.bdb.backup
+
+3. Start CRF, as root user.
+
+# $GI_HOME/bin/crsctl start res ora.crf -init
+
+As an alternative you could also manage repository size in terms of space using below command. This feature is present from 11.2.0.3.
+
+oclumon manage -repos changesize <memsize>.
+
+As a temporary work around, you can kill ologgerd and delete the contents in the BDB directory. osysmond should respawn ologgerd and new bdb file will get created. The past data is lost when this is done.
+
+Please note the minimum size must be >= 1024 MB (1 GB), otherwise CRS-9100 "Error setting Cluster Health Monitor repository size" will be reported.
+			
+################################################################################################################################################
+Locking in oracle 
+http://www.datadisk.co.uk/html_docs/oracle/locking.htmformance
+
+http://arup.blogspot.in/2011/01/how-oracle-locking-works.html
+Troubleshooting Database Contention With V$Wait_Chains (Doc ID 1428210.1)
+################################################################################################################################################
+Compression:
+The compression ratio achieved in a given environment depends on the nature of the data being
+compressed; specifically the cardinality of the data (meaning if there are large distinct word or character then the compression is very less and
+if the character is repeated then the compression is more.)
+
+Master Note for OLTP Compression (Doc ID 1223705.1)
+Note 785787.1    11g new features:Advanced Compression overview and advantages
+Note 882712.1    11g New feature:All About Advanced Table Compression(Overview,Use,Examples,Restrictions)
+Note 1101900.1    Performance Issue with Update Statement in Compressed Tablespace
+Note 987049.1    Performance Issue After Enabling Compression
+Note 829068.1    COMPRESS FOR ALL OPERATIONS generates lot of redo
+Note 1149283.1    The OLTP Compression Saves No Space As Expected Using A Row Too Big
+Note 805205.1    My Data are not compressed
+– How to compress a table that is online (Doc ID 1353967.1)
+– Advanced Compression critical patches (Doc ID 1061366.1)
+– Redo Transport compression with Data Guard (Doc ID 729551.1)
+– How to see if rows are compressed in a table (Doc ID 1477918.1)
+How Hybrid Columnar Compression Works When Rows are Inserted/Updated. (Doc ID 1332853.1)
+Can Both HCC and Advanced Compression Be Used On The Same Table? (Doc ID 1309704.1)
+How to Compress a Table While it is Online (Doc ID 1353967.1)
+################################################################################################################################################
+Multipathing in oracle:
+
+ASM by default scan the disk in the /dev/sd* disk but we can use the multipathing feature in oracle to change this.
+
+http://www.oracle.com/technetwork/topics/linux/multipath-097959.html
+
+################################################################################################################################################
+VMware:
+--------
+http://vcloud-lab.com/entries/general/part-4-configuring-vmware-workstation-networking-in-home-lab
+
+################################################################################################################################################
+
+
+Sysaux tablespace Full:
+-----------------------
+https://jhdba.wordpress.com/2009/05/19/purging-statistics-from-the-sysaux-tablespace/
+https://jhdba.wordpress.com/2014/07/09/tidying-up-sysaux-removing-old-snapshots-which-you-didnt-know-existed/
+
+1) Clean AWR
+2) Clean old statistics.
+
+SQL> select dbms_stats.get_stats_history_availability from dual;
+
+GET_STATS_HISTORY_AVAILABILITY
+---------------------------------------------------------------------------
+12-OCT-17 11.58.48.313094000 PM +05:30
+
+SQL>  select dbms_stats.get_stats_history_retention from dual;
+
+GET_STATS_HISTORY_RETENTION
+---------------------------
+                         31
+
+
+################################################################################################################################################						 
+Patching:
+---------
+which patch to download?
+Assistant: Download Reference for Oracle Database/GI PSU, SPU(CPU), Bundle Patches, Patchsets and Base Releases (Doc ID 2118136.2)
+My Oracle Support Patch Conflict Checker Tool (Doc ID 2254812.1)/(1091294.1)
+
+https://avdeo.com/2008/08/19/opatch-utility-oracle-rdbms-patching/
+Apply Grid Infrastructure/CRS Patch in Mixed Version RAC Database Environment (Doc ID 1064804.1)
+Master Note for Database Proactive Patch Program (Doc ID 756671.1)
+FAQ: OPatch/Patch Questions/Issues for Oracle Clusterware (Grid Infrastructure or CRS) and RAC Environments (Doc ID 1339140.1)
+Why "opatch auto" not patching database ORACLE_HOME? (Doc ID 1479651.1)
+Patch Set Updates for Oracle Products (Doc ID 854428.1)
+Example: Applying a 12c GI PSU With opatchauto in GI Cluster or Standalone Environment (Doc ID 1594183.1)
+Example: Applying a 12c GI PSU With opatchauto in non-rolling Mode (Doc ID 1597085.1)
+How to Check or Verify if the Oracle JVM is Installed in the Database (Doc ID 397770.1)
+Script to Check the Status or State of the JVM within the Database (Doc ID 456949.1)
+Safe repair/reinstall of the JVM Component in 11.2 and up (Doc ID 2314363.1)
+NOTE:2212082.1 - Removal of JVM After Upgrade to 12c Fails With "ORA-00001: unique constraint (SYS.I_OBJ1) violated"
+################################################################################################################################################
+DATAGUARD:
+https://uhesse.com/data-guard/
+
+NOTE:1387859.1 - Oracle Data Guard Broker and Static Service Registration
+
+trobuleshooting dataguard:
+https://docs.oracle.com/cd/A91202_01/901_doc/server.901/a88808/stdbytroubleappx.htm#623933
+
+
+DGMGRL> edit database 'DBNAME' set state=TRANSPORT-OFF;
+Error: ORA-16627: operation disallowed since no standby databases would remain to support protection mode
+
+We may need to transfer the mode to maximum performance and disable the log transport.
+
+Shell Script To Monitor/Check The Lag/Sync Status Between Primary And Standby Oracle Database:
+
+http://dba-tips.blogspot.in/2017/11/shell-script-to-check-lag-sync-status.html
+
+Recovering a corrupted/lost datafile on Primary database from the Standby database:
+
+https://shivanandarao-oracle.com/2014/05/03/recovering-a-corruptedlost-datafile-on-primary-database-from-the-standby-database/
+
+Roll Forward Physical Standby Database using RMAN incremental backup
+https://shivanandarao-oracle.com/2012/03/26/roll-forward-physical-standby-database-using-rman-incremental-backup/
+In 12c for this there is new feature--- https://shivanandarao-oracle.com/2015/12/18/roll-forward-physical-standby-database-in-12c/
+
+Creating ASM physical standby from non ASM primary (Doc ID 752360.1)
+Usage, Benefits and Limitations of Standby Redo Logs (SRL) (Doc ID 219344.1)
+Data Guard Physical Standby - Managing temporary tablespace tempfiles (Doc ID 1514588.1)
+How To Calculate The Required Network Bandwidth Transfer Of Redo In Data Guard Environments (Doc ID 736755.1)
+Removing entries in v$archived_log referencing a particluar DEST_ID (Doc ID 845361.1)
+
+How To Configure Client Failover For Data Guard Connections Using Database Services (Doc ID 1429223.1)
+NOTE:734862.1 - Step By Step Guide On How To Recreate Standby Control File When Datafiles Are On ASM And Using Oracle Managed Files
+NOTE:837102.1 - Step By Step Guide On Creating Physical Standby Using RMAN Backup based Duplicate In ASM For ASM Primary
+12c Data guard Switchover Best Practices using SQLPLUS (Doc ID 1578787.1)
+NOTE:1582837.1 - 12c Dataguard Switchover Best Practices using DGMGRL(Dataguard Broker Command Prompt)
+11.2 Data Guard Physical Standby Switchover Best Practices using the Broker (Doc ID 1305019.1)
+NOTE:1542969.1 - Cascaded Standby Databases in Oracle 12c
+How to create a RAC Database Service With Physical Standby Role Option? (Doc ID 1129143.1)
+Data Guard Physical Standby - Managing temporary tablespace tempfiles (Doc ID 1514588.1)
+
+
+Resizing Redo Logs in a Dataguard Envrionment (Physical Standby in place)
+Handling ORL and SRL (Resize) on Primary and Physical Standby in Data Guard Environment (Doc ID 1532566.1)
+https://shivanandarao-oracle.com/2012/10/03/resizing-redo-logs-in-a-dataguard-envrionment-physical-standby-in-place/
+
+SQL>select group#, member, status from v$logfile where type='STANDBY'; 
+
+- We should get active apply rate from v$recovery_progress. 
+
+set echo off 
+set feedback off 
+set termout off 
+set pagesize 100 
+set numwidth 15 
+column type format a20 truncate 
+column item format a25 truncate 
+column units format a10 truncate 
+column name format a30 truncate 
+select to_char(start_time,'dd-mon-yyyy HH:MI:SS') start_time, type, item, units, sofar, total, to_char(timestamp,'dd-mon-yyyy HH:MI:SS') timestamp 
+from v$recovery_progress; 
+
+- Let's check the waiting events on the standby database. 
+
+set echo off 
+set feedback off 
+set termout off 
+set pagesize 100 
+set numwidth 10 
+column event format a40 truncate 
+column name format a35 truncate 
+column opname format a35 truncate 
+column value format 99999999999999 
+
+select event, total_waits, time_waited, average_wait*10 from v$system_event where time_waited > 100 and 
+event not like 'rdbms ipc %' and event not like '%timer%'and lower(event) not like '%idle%' and lower(event) not like 'sql%net%' 
+and event not like 'ges%' order by time_waited; 
+
+- Output from the following query from V$SYSSTAT run on a 60-second interval on the standby database: 
+
+select name, value, to_char(sysdate, 'DD-MON-YYYY HH:MI:SS') from v$sysstat where value > 0 order by name; 
+
+- Please get an AWR report from the primary database with no more than one hour interval that covers the problem time. 
+
+- Please also check the archive log file history in the controlfile from both the primary and the standby databases by the query below: 
+
+SQL> select type, records_total, records_used from V$CONTROLFILE_RECORD_SECTION where type='ARCHIVED LOG'; 
+SQL> show parameter control_file_record_keep_time 
+
+The long archive log file history could cause CF enqueue contention so that slow down the database performance. 
+
+
+
+################################################################################################################################################
+Note: 162345.1 LOBS - Storage, Read-consistency and Rollback
+Note.268476.1  LOB Performance Guideline
+LOBS - Storage, Redo and Performance Issues (Doc ID 66431.1)
+NOTE:422826.1 - How To Identify LOB Segment Use PCTVERSION Or RETENTION From Data Dictionary
+NOTE:563470.1 - Lob retention not changing when undo_retention is changed
+NOTE:386341.1 - How to determine the actual size of the LOB segments and how to free the deleted/unused space above/below the HWM
+################################################################################################################################################
+Stastics:
+--------
+http://dba-tips.blogspot.in/2012/11/all-about-statistics-in-oracle.html
+http://www.br8dba.com/statistics/
+Master Note: Optimizer Statistics (Doc ID 1369591.1)
+Global statistics - An Explanation (Doc ID 236935.1)
+How to Gather Optimizer Statistics on 11g (Doc ID 749227.1)
+FAQ: Automatic Statistics Collection (Doc ID 1233203.1)
+How Can We Find Out Status Of Task 'Auto Optimizer Stats Collection' (Doc ID 779596.1)
+How to Check what Automatic Statistics Collections are Scheduled on Oracle 10g (Doc ID 377143.1)
+Best Practices for Automatic Statistics Collection (Doc ID 377152.1)
+
+Oracle database has default, scheduled job "gather_stats_job" that analyses stats on a daily basis during the maintenance window time.
+There are two scheduled activities related to the collection of Oracle "statistics":
+
+Refreshing-stale-statistics:
+----------------------------
+http://myorastuff.blogspot.in/2009/10/refreshing-stale-statistics.html
+
+AWR statistics:  
+Oracle has an automatic method to collect AWR "snapshots" of data that is used to create elapsed-time performance reports.
+
+Optimizer statistics:  
+Oracle has an automatic job to collect statistics to help the optimizer make intelligent decisions about the best access 
+method to fetch the desired rows.
+
+This job can be disabled with this command: 
+exec dbms_scheduler.disable(’SYS.GATHER_STATS_JOB’);
+Oracle collects optimizer statistics for SQL via the default of autostats_target = auto.
+
+Histogram:
+----------
+http://www.br8dba.com/oracle-histograms/
+################################################################################################################################################
+Redolog :
+
+Master Note: Troubleshooting Redo Logs and Archiving (Doc ID 1507157.1)
+How to Change The Location Of Redo Log Files (Doc ID 395062.1)
+Redo Log Guidelines (Doc ID 10698.1)
+Maintenance of Online Redo Log Groups and Members (Doc ID 102995.1)
+online Redo Logs on Physical Standby (Doc ID 740675.1)
+NOTE:1035935.6 - Example of How To Resize the Online Redo Logfiles
+NOTE:779306.1 - How To Add/Increase The Size Of Redo Log Files In Rac Environment?
+NOTE:602066.1 - How To Maintain and/or Add Redo Logs
+Maintenance of Online Redo Log Groups and Members (Doc ID 102995.1)
+Size of Redo Log Files (Doc ID 111655.1)
+How to Dump Redo Log File Information (Doc ID 1031381.6)
+REDO LOG CORRUPTION - DROPPING REDO LOGS NOT POSSIBLE - CLEAR LOGFILE (Doc ID 1078456.6)
+NOTE:117481.1 - How to Recover from Loss Of Online Redo Log And ORA-312 And ORA-313
+Note 1038851.6 - How to Estimate Size of Redo Logs
+NOTE:274681.1 - Excessive Generation of Archive Logs Even The Database Is In Idle State (No Users Connected)
+NOTE:1070861.1 - Excessive Archive Log Generation with INTERNAL and COMMIT operations
+How to Enable or Disable Redo Thread(s) on a Data Guard Physical Standby (Doc ID 1928391.1)
+Usage, Benefits and Limitations of Standby Redo Logs (SRL) (Doc ID 219344.1)
+
+################################################################################################################################################
+Backup and Recovery ( RMAN ):
+-----------------------------
+
+MOS note 372996.1 recovery usign the snapshot control file.
+RMAN RECOVER TABLE Feature New to Oracle Database 12c (Doc ID 1521524.1)
+
+Monitoring tool RMAN : Monitoring RMAN Backup with QBR tools
+http://oracle-help.com/backup-and-recovery/monitoring-rman-backup-qbr-tools/
+
+How to RESTORE / RECOVER Offline RMAN backup without OPEN RESETLOGS (Doc ID 1077022.1)
+
+NOTE:184327.1 - ORA-1157 Troubleshooting
+NOTE:198640.1 - How to Recover from a Lost or Deleted Datafile with Different Scenarios
+NOTE:183327.1 - Common Causes and Solutions on ORA-376 Error Found in Backup & Recovery
+NOTE:183367.1 - Common Causes and Solutions on ORA-1113 Error Found in Backup & Recovery
+RMAN DUPLICATE / RESTORE including Standby in ASM with OMF / non-OMF / Mixed Name for Datafile / Online Log / Controlfile (Doc ID 1910175.1)
+
+NOTE:117481.1 - How to Recover from Loss Of Online Redo Log And ORA-312 And ORA-313
+https://databaseinternalmechanism.com/oracle-backup-recovery/recovering-from-the-loss-of-redo-log-files/
+
+Recover database after disk loss (Doc ID 230829.1)
+RAC: How to move a datafile that was added by mistake on local storage to shared location (Doc ID 1678747.1)
+
+Rman Backup Monitoring:
+https://web.stanford.edu/dept/itss/docs/oracle/10gR2/backup.102/b14191/advmaint006.htm
+
+RAC: How to move a datafile that was added by mistake on local storage to shared location (Doc ID 1678747.1)
+
+Rman Troubleshooting:
+https://web.stanford.edu/dept/itss/docs/oracle/10gR2/backup.102/b14191/rcmtroub004.htm#sthref1213
+https://web.stanford.edu/dept/itss/docs/oracle/10gR2/backup.102/b14191/rcmtroub004.htm#sthref1188
+Instance Recovery Performance Tuning: Fast-Start Fault Recovery:
+https://web.stanford.edu/dept/itss/docs/oracle/10gR2/backup.102/b14191/rcmtunin004.htm#sthref1123
+
+
+RMAN Restore performance DOC id 740911.1
+RMAN Backup performace Doc ID 360443.1
+Script to monitor RMAN Backup and Restore Operations (Doc ID 1487262.1)
+
+################################################################################################################################################
+
+How to Configure OSWatcher:
+---------------------------
+Link: http://www.br8dba.com/oswatcher/
+
+Analysis of OS wacher output : http://www.dbas-oracle.com/2013/05/How-to-Analyze-or-Read-OS-Watcher-Output-in-three-easy-steps-With-Example.html
+
+OSWatcher (Includes: [Video]) (Doc ID 301137.1)
+
+1. Download OSWatcher
+Doc ID 301137.1
+oswbb733.tar
+
+2. Install OSWatcher
+Move the OSW tar file to target location where you want to install OSW. After this just untar
+[root@rac1 share]# tar xvf oswbb733.tar
+
+3. Create file private.net
+OS Watcher User Guide (Doc ID 301137.1)
+Note: By default private interconnect statistics are not collected by OSW. You have to set it manually as per the document.
+If you open the OSW guide mentioned in the above document you can see the sub title 'Setting up OSW'. In that it is clearly mentioned 
+how to set the private.net stats.document.
+
+vi private.net     <-- add below entries and then save and exit
+
+#Linux Example
+###########################################
+echo "zzz ***"`date`
+traceroute -r -F rac1-priv.rajasekhar.com
+traceroute -r -F rac2-priv.rajasekhar.com
+############################################
+rm locks/lock.file
+
+[root@rac1 oswbb]# cat private.net
+[root@rac1 oswbb]# chown -R oracle:oinstall private.net
+[root@rac1 oswbb]# chmod -R 755 private.net
+[root@rac1 oswbb]# ls -ltr private.net
+-rwxr-xr-x 1 oracle oinstall 228 Aug 12 02:04 private.net
+
+4. Start OS Watcher
+
+Example 1: This would start the tool and collect data at default 30 second intervals and log the last 48 hours of data to archive files.
+
+./startOSWbb.sh 
+
+Example 2: This would start the tool and collect data at 60 second intervals and log the last 10 hours of data to archive files and automatically
+compress the files.
+./startOSWbb.sh 60 10 gzip
+
+Example 3: This would start the tool and collect data at 60 second intervals and log the last 10 hours of data to archive files, compress the 
+files and set the archive directory to a non-default location.
+
+./startOSWbb.sh 60 10 gzip /u02/tools/oswbb/archive
+
+Example 4: This would start the tool and collect data at 60 second intervals and log the last 48 hours of data to archive files, NOT compress 
+the files and set the archive directory to a non-default location.
+
+./startOSWbb.sh 60 48 NONE /u02/tools/oswbb/archive
+
+Example 5: This would start the tool, put the process in the background, enable to the tool to continue running after the session has been 
+terminated, collect data at 60 second intervals, and log the last 10 hours of data to archive files.
+
+nohup ./startOSWbb.sh 60 10 &
+As root user
+
+[root@rac1 ~]# cd /u01/share/oswbb
+[root@rac1 oswbb]# ls -ltr startOSWbb.sh
+-rwxr-xr-x 1 oracle oinstall 2574 Feb 26 23:50 startOSWbb.sh
+[root@rac1 oswbb]#
+[root@rac1 oswbb]# nohup ./startOSWbb.sh 30 72 gzip & <--- Hit ENTER twice
+[1] 28446
+[root@rac1 oswbb]# nohup: appending output to `nohup.out'
+
+[1]+  Done                    nohup ./startOSWbb.sh 30 72 gzip
+[root@rac1 oswbb]#
+
+Note: OSW will keep running until stop/crash and will keep data for last 72 hours only. Data automatically compress after 72 hours.
+
+5. Verify OSW Running
+
+[root@rac1 archive]# ps -elf | grep OSWatcher  | grep -v grep
+0 S root     28450     1  0  80   0 -  2213 wait   02:48 pts/2    00:00:00 /bin/sh ./OSWatcher.sh 30 72 gzip   <-- 30 Sec, 72 Hours, output gzip format 
+0 S root     28499 28450  0  80   0 -  2179 wait   02:49 pts/2    00:00:00 /bin/sh ./OSWatcherFM.sh 72 /u01/share/oswbb/archive  <-- OSW output location
+[root@rac1 archive]#
+
+[root@rac1 ~]# ls -ltr /u01/share/oswbb/archive
+total 40
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswvmstat
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswtop
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswslabinfo
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswps
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswprvtnet
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswnetstat
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswmpstat
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswmeminfo
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswiostat
+drwxr-xr-x 2 root root 4096 Aug 12 02:49 oswifconfig
+[root@rac1 ~]#
+
+[root@rac1 ~]# cd /u01/share/oswbb/archive/oswprvtnet
+[root@rac1 oswprvtnet]# ls -ltr
+total 8
+-rw-r--r-- 1 root root 4272 Aug 12 02:55 rac1.rajasekhar.com_prvtnet_15.08.12.0200.dat
+[root@rac1 oswprvtnet]# tail -10 rac1.rajasekhar.com_prvtnet_15.08.12.0200.dat
+zzz ***Wed Aug 12 02:55:15 IST 2015
+traceroute to rac1-priv.rajasekhar.com (192.168.0.101), 30 hops max, 40 byte packets
+ 1  rac1-priv.rajasekhar.com (192.168.0.101)  0.023 ms  0.012 ms  0.005 ms
+traceroute to rac2-priv.rajasekhar.com (192.168.0.102), 30 hops max, 40 byte packets
+ 1  rac2-priv.rajasekhar.com (192.168.0.102)  0.278 ms  0.185 ms  0.124 ms
+zzz ***Wed Aug 12 02:55:45 IST 2015
+traceroute to rac1-priv.rajasekhar.com (192.168.0.101), 30 hops max, 40 byte packets
+ 1  rac1-priv.rajasekhar.com (192.168.0.101)  0.022 ms  0.007 ms  0.005 ms
+traceroute to rac2-priv.rajasekhar.com (192.168.0.102), 30 hops max, 40 byte packets
+ 1  rac2-priv.rajasekhar.com (192.168.0.102)  0.396 ms  0.310 ms  0.226 ms
+[root@rac1 oswprvtnet]#
+
+6. Stop OSWather
+
+[root@rac1 oswbb]# pwd
+/u01/share/oswbb
+[root@rac1 oswbb]# ls -ltr stopOSWbb.sh
+-rwxr-xr-x 1 oracle oinstall 558 Apr 17  2014 stopOSWbb.sh
+[root@rac1 oswbb]#
+[root@rac1 oswbb]# ./stopOSWbb.sh
+[root@rac1 oswbb]#
+[root@rac1 oswbb]# ps -ef | grep OSW <-- now OSW is not running
+root     30248  2602  0 02:57 pts/2    00:00:00 grep OSW
+[root@rac1 oswbb]#
+
+
+################################################################################################################################################
+
+ADRCI:
+
+https://uhesse.com/2011/06/01/adrci-a-survival-guide-for-the-dba/
+################################################################################################################################################
+LOB:
+====
+LOBs and ORA-01555 troubleshooting (Doc ID 846079.1)
+Export Receives The Errors ORA-1555 ORA-22924 ORA-1578 ORA-22922 (Doc ID 787004.1)
+Export Fails With ORA-2354 ORA-1555 ORA-22924 and How To Confirm LOB Segment Corruption Using Export Utility? (Doc ID 833635.1)
+ORA-01555 And Other Errors while Exporting Table With LOBs, How To Detect Lob Corruption. (Doc ID 452341.1)
+################################################################################################################################################
+
+Tablespace:
+
+Tablespace HTML report.
+Historical tablespace report:
+https://www.oraclenext.com/2014/02/tablespace-growth-history-and-expected.html
+
+Undo tablespace:
+Details query are given in the below blog.
+
+http://sateeshv-dbainfo.blogspot.in/2017/07/undo-related-queries.html
+http://clouddba.co/undo-advisor-help-to-estimate-the-undo-tablespace-size-and-undo-retention-to-avoid-ora-1555/
+
+Master Site for ora-1555: https://blogs.oracle.com/db/troubleshooting-ora-1555-doc-id-13073341   (Doc ID 1307334.1))
+Common Diagnostic Scripts for AUM problems (Doc ID 746173.1)
+AUM Common Analysis/Diagnostic Scripts (Doc ID 877613.1)
+NOTE:262066.1 - How To Size UNDO Tablespace For Automatic Undo Management
+NOTE:268870.1 - How to Shrink the datafile of Undo Tablespace
+
+
+undoblks:  		This is the number of undo blocks in the undo tablespace.
+maxquerylen:  	This column of v$undostat displays the maximum query length (in seconds) of the largest query during the 
+				specified time period.  This is used as feedback for setting the undo_retention parameter because undo_retention 
+				should be larger than the value returned by the maxquerylen column.  In sum, the undo_retention initialization parameter 
+				should be set to a value larger than the maximum query length.
+expstealcnt:  	This v$undostat column shows how many times expired undo blocks were stolen for that time interval.
+unxpstealcnt:  	This v$undostat column shows how many times unexpired undo blocks were stolen. 
+nospaceerrcnt: 	This v$undostat column shows how many times there was no free space in the undo tablespace. 
+ssolderrcnt: 	This v$undostat column shows how many times queries received the ORA-1555 error message during that time interval. 
+				If this column contains non-zero values, consider raising the undo_retention initialization parameter.
+
+select to_char(begin_time,'MM/DD HH24:MI') BEGIN_TIME,to_char(END_TIME,'MM/DD HH24:MI') END_TIME,undoblks UNDO_BLK, maxquerylen MAX_QUERY_LENGHT,expstealcnt STOLEN_EXPIRED,unxpstealcnt STOLEN_UNEXPIRED,
+nospaceerrcnt No_FREE_UNDO,ssolderrcnt ORA_1555_MSG from v$undostat;
+
+Undo Space used by all transactions:
+------------------------------------
+set lines 200
+col sid for 99999
+col username for a10
+col name for a15
+select  s.sid,s.serial#,username,s.machine,
+t.used_ublk ,t.used_urec,rn.name,(t.used_ublk *8)/1024/1024 SizeGB
+from    v$transaction t,v$session s,v$rollstat rs, v$rollname rn
+where   t.addr=s.taddr and rs.usn=rn.usn and rs.usn=t.xidusn and rs.xacts>0;
+
+Undo Space Utilization by each Sessions:
+---------------------------------------
+set lines 200
+col sid for 99999
+col username for a10
+col name for a15
+select  s.sid,s.serial#,username,s.machine,
+t.used_ublk ,t.used_urec,rn.name,(t.used_ublk *8)/1024/1024 SizeGB
+from    v$transaction t,v$session s,v$rollstat rs, v$rollname rn
+where   t.addr=s.taddr and rs.usn=rn.usn and rs.usn=t.xidusn and rs.xacts>0;
+Date wise occurrence of ORA-1555
+
+Date wise occurrence of ORA-1555:
+----------------------------------
+select to_char(begin_time, 'mm/dd/yyyy hh24:mi') "Int. Start",
+ssolderrcnt "ORA-1555s", maxquerylen "Max Query",
+unxpstealcnt "UNExp SCnt",UNXPBLKRELCNT "UnEXPblks", expstealcnt "Exp SCnt",EXPBLKRELCNT "ExpBlks",
+NOSPACEERRCNT nospace
+from v$undostat where ssolderrcnt>0
+order by begin_time;
+
+Calculating required UNDO Size for given Database Activity:
+-----------------------------------------------------------
+SELECT d.undo_size/(1024*1024) "ACTUAL UNDO SIZE [MByte]",
+ SUBSTR(e.value,1,25) "UNDO RETENTION [Sec]",
+ (TO_NUMBER(e.value) * TO_NUMBER(f.value) *
+ g.undo_block_per_sec) / (1024*1024) 
+ "NEEDED UNDO SIZE [MByte]"
+ FROM (
+ SELECT SUM(a.bytes) undo_size
+ FROM v$datafile a,
+ v$tablespace b,
+ dba_tablespaces c
+ WHERE c.contents = 'UNDO'
+ AND c.status = 'ONLINE'
+ AND b.name = c.tablespace_name
+ AND a.ts# = b.ts#
+ ) d,
+ v$parameter e,
+ v$parameter f,
+ (
+ SELECT MAX(undoblks/((end_time-begin_time)*3600*24))
+ undo_block_per_sec
+ FROM v$undostat
+ ) g
+ WHERE e.name = 'undo_retention'
+ AND f.name = 'db_block_size'
+/
+Optimal Undo Retention:
+-----------------------
+
+Optimal undo Retention= ACTUAL Undo Size / (DB block Size * Undo Block Per sec)
+
+SELECT d.undo_size/(1024*1024) "ACTUAL UNDO SIZE [MByte]",
+ SUBSTR(e.value,1,25) "UNDO RETENTION [Sec]",
+ ROUND((d.undo_size / (to_number(f.value) *
+ g.undo_block_per_sec))) "OPTIMAL UNDO RETENTION [Sec]"
+ FROM (
+ SELECT SUM(a.bytes) undo_size
+ FROM v$datafile a,
+ v$tablespace b,
+ dba_tablespaces c
+ WHERE c.contents = 'UNDO'
+ AND c.status = 'ONLINE'
+ AND b.name = c.tablespace_name
+ AND a.ts# = b.ts#
+ ) d,
+ v$parameter e,
+ v$parameter f,
+ (
+ SELECT MAX(undoblks/((end_time-begin_time)*3600*24))
+ undo_block_per_sec
+ FROM v$undostat
+ ) g
+WHERE e.name = 'undo_retention'
+ AND f.name = 'db_block_size'
+/
+
+https://community.oracle.com/community/support/support-blogs/database-support-blog/blog/2015/12/10/ora-1555-do-you-know-how-to-resolve-this-issue
+
+Trobuleshoot:
+
+1. Check Error Messages
+ Below error is due to the Segment
+ ORA-01555: snapshot too old: rollback segment number 107 with name "_SYSSMU107_1253191395$" too small
+ 
+ Below error is due to the LOB :
+ ORA-01555: snapshot too old: rollback segment number with name "" too small
+         --> notice that segment name is null ""
+         or/and
+        ORA-22924: snapshot too old
+		
+2. Check Undo Datafiles :
+----------------------
+select tablespace_name, file_id, sum(bytes)/1024/1024 a, sum(maxbytes)/1024/1024 b, autoextensible
+    from dba_data_files
+    where tablespace_name in
+    (select tablespace_name from dba_tablespaces where retention like '%GUARANTEE' )
+    group by file_id, tablespace_name, autoextensible
+    order by tablespace_name;
+
+NOTE: It is strongly recommended NOT to have both autoextensible and non-autoextensible UNDO data files in the UNDO tablespace as this will
+be lead to TUNED_UNDORETENTION mis-calculation
+
+3. Check TUNED_UNDORETENTION
+
+     SQL> select max(maxquerylen),max(tuned_undoretention) from v$undostat;
+     SQL> select max(maxquerylen),max(tuned_undoretention) from dba_hist_undostat;
+	 
+TUNED_UNDORETENTION is less than the MAXQUERYLEN value:
+	
+	This indicates there is a space pressure in the UNDO tablespace and hence the UNDO records are not retained for enough time period.
+	Adding space to the UNDO tablespace helps to resolve these cases.
+
+TUNED_UNDORETENTION is too high compared to the MAXQUERYLEN value:
+    
+	a. This generally happens in case of UNDO tablespace with non-autoextensible datafiles. The internal algorithm tries to retain the UNDO
+       records as long as possible in such cases and hence high value of TUNED_RETENTION. The workaround will be to set all UNDO datafiles 
+	   to autextensible mode. (You can set a MAXSIZE for the datafiles)
+    b. Long running queries can raise TUNED_UNDORETENTION to very high values.
+       You need to tune these queries to avoid retain UNDO data for more time inside UNDO tablespace. 
+	   To identify these long queries, run the following :
+	 
+	 select maxquerysqlid, maxquerylen from dba_hist_undostat order by maxquerylen desc;
+     select maxqueryid, maxquerylen from v$undostat order by maxquerylen desc;
+
+	 
+4. High utilization of ACTIVE/UNEXPIRED extents:
+
+select distinct status,tablespace_name, sum(bytes), count(*) from dba_undo_extents group by status, tablespace_name;
+
+Excessive allocation of ACTIVE/UNEXPIRED extents can be caused by one of the following reasons:For more details refer to                   
+a. Large value of UNDO_RETENTION or TUNED_UNDORETENTION as described above.
+			 
+Large UNDO data generation at certain point of time which can be identified by run following query :
+
+alter session set nls_date_format='DD-MON-YYYY HH24:MI:SS';
+select begin_time , undoblks from dba_hist_undostat order by undoblks desc ;
+select begin_time , undoblks from v$undostat order by undoblks desc;
+
+
+5. UNDO_RETENTION :
+
+We recommend to set UNDO_RETENTION to at least the average of MAXQUERYLEN and increase it if the ORA-1555 error is still reported.
+select avg(maxquerylen) from dba_hist_undostat;
+select avg(maxquerylen) from v$undostat;
+
+
+Temporary tablespace:
+=====================
+
+https://bdrouvot.wordpress.com/2013/03/19/link-huge-pga-temp/
+
+https://bdrouvot.wordpress.com/2013/04/19/drill-down-to-sql_id-execution-details-in-ash/
+################################################################################################################################################
+How to find the physical path of ASM disk:
+-------------------------------------------
+1. asmcmd lsdsk -G ARCH_BT
+
+2. You will get asm disk name 
+
+3. oracleasm querydisk ASMDISKNAME
+
+4. You will get MAJOR MINOR device id
+
+5. Find these IDs in /dev directory
+[10:23 AM, 9/5/2018] CympSatish Sir: 
+---------- start  here ------------
+#!/bin/ksh
+for i in `/etc/init.d/oracleasm listdisks`
+do
+v_asmdisk=`/etc/init.d/oracleasm querydisk $i | awk  '{print $2}'`
+v_minor=`/etc/init.d/oracleasm querydisk $i | awk -F[ '{print $2}'| awk -F] '{print $1}' | awk '{print $1}'`
+v_major=`/etc/init.d/oracleasm querydisk $i | awk -F[ '{print $2}'| awk -F] '{print $1}' | awk '{print $2}'`
+v_device=`ls -la /dev | grep $v_minor | grep $v_major | awk '{print $10}'`
+echo "ASM disk $v_asmdisk based on /dev/$v_device  [$v_minor $v_major]"
+done
+---------- finish here ------------
+[10:27 AM, 9/5/2018] CympSatish Sir: ?? use this script
+
+################################################################################################################################################
+SQLPLUS: Command Prompt customizied:
+====================================
+———————————————————-
+SQL Prompt With Time
+———————————————————-
+SQL> set time on
+09:50:16 SQL>
+09:50:19 SQL> select sysdate from dual;
+
+SYSDATE
+———
+20-APR-11
+
+09:50:34 SQL>
+
+———————————————————-
+SQL Prompt With USER
+———————————————————-
+SQL> set sqlprompt “_USER> ”
+SCOTT>
+SCOTT>
+SCOTT> select sysdate from dual;
+
+SYSDATE
+———
+20-APR-11
+
+SCOTT>
+
+———————————————————-
+SQL Prompt With SID
+———————————————————-
+SQL> set sqlprompt “_CONNECT_IDENTIFIER> ”
+mydb>
+mydb>
+mydb> select sysdate from dual;
+
+SYSDATE
+———
+20-APR-11
+
+mydb>
+
+———————————————————-
+SQL Prompt With USER@SID
+———————————————————-
+SQL> set sqlprompt “_USER’@’_CONNECT_IDENTIFIER SQL> ”
+SCOTT@mydb SQL>
+SCOTT@mydb SQL>
+SCOTT@mydb SQL> select sysdate from dual;
+
+SYSDATE
+———
+20-APR-11
+
+SCOTT@mydb SQL>
+
+———————————————————-
+SQL Prompt With DATE
+———————————————————-
+SQL> set sqlprompt “_DATE SQL> ”
+20-APR-11 SQL>
+20-APR-11 SQL>
+20-APR-11 SQL> select sysdate from dual;
+
+SYSDATE
+———
+20-APR-11
+
+20-APR-11 SQL>
+################################################################################################################################################
+################################################################################################################################################
+################################################################################################################################################
+################################################################################################################################################
+################################################################################################################################################
+################################################################################################################################################
